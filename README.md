@@ -11,9 +11,9 @@ Hosted at [playsthis.com](http://playsthis.com)
 ## Set up for local development (God help you)
 
 * On Windows:
-** http://jekyll-windows.juthilo.com/
+  * http://jekyll-windows.juthilo.com/
 * On Mac/Linux:
-** http://jekyllrb.com/docs/installation/
+  * http://jekyllrb.com/docs/installation/
 * Install Bundler (http://bundler.io/) - `gem install bundler`
 * Serve with `bundle exec jekyll serve`
 
