@@ -49,6 +49,6 @@ Although my kit is pretty mid-range, I really love the look and sound of it and 
 
 ![Tim Barclay]({{ site.baseurl }}/images/TimB4.jpg)
 
-My main dream set up change, which I'm currently working on making happen, would be to get my practice space properly sound proofed so I can practice on an accoustic kit at home without getting myself evicted. I'd love to have a gigging kit, all packed up and ready to go, and a second kit permanently miced up at home in my soundproofed heavy metal cave.
+The main change to my setup that I'd like, and which I'm currently working on doing, would be to get my practice space properly sound proofed so I can practice on an acoustic kit at home without getting myself evicted. I'd love to have a gigging kit, all packed up and ready to go, and a second kit permanently miced up at home in my soundproofed heavy metal cave.
 
-Apart from Zildians, which I've unfortunately acquired an expensive taste for, I'm pretty agnostic when it comes to brands, so I don't have a particular dream kit, but it would be great to have something custom, whether it be [DW](http://www.dwdrums.com/) or something more local like [Liberty Drums](http://www.libertydrums.com/).
+Apart from Zildjians, which I've unfortunately acquired an expensive taste for, I'm pretty agnostic when it comes to brands, so I don't have a particular dream kit, but it would be great to have something custom, whether it be [DW](http://www.dwdrums.com/) or something more local like [Liberty Drums](http://www.libertydrums.com/).
