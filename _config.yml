@@ -9,7 +9,7 @@ name: Plays This
 description: What musicians use to get things done
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
+#avatar:
 
 #
 # Flags below are optional
@@ -21,13 +21,13 @@ footer-links:
   email:
   facebook:
   flickr:
-  github:
+  github: timbarclay
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  rss: rss # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: timbarclay
+  stackoverflow:  # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-68703442-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -56,7 +56,7 @@ url: http://timbarclay.github.io/PlaysThis
 #
 
 markdown: redcarpet
-highlighter: rouge
+highlighter: pygments
 permalink: /:title/
 
 # The release of Jekyll Now that you're using

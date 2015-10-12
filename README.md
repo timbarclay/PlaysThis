@@ -11,9 +11,16 @@ Hosted at [playsthis.com](http://playsthis.com)
 ## Set up for local development (God help you)
 
 * On Windows:
-** http://jekyll-windows.juthilo.com/
+  * http://jekyll-windows.juthilo.com/
 * On Mac/Linux:
-** http://jekyllrb.com/docs/installation/
+  * http://jekyllrb.com/docs/installation/
+* Add a file in the root dir called `Gemfile` containing:
+
+        source 'https://rubygems.org'
+        gem 'github-pages'
+        gem 'rouge', '1.3.0'
+        gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
 * Install Bundler (http://bundler.io/) - `gem install bundler`
 * Serve with `bundle exec jekyll serve`
 

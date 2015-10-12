@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This site finds out what gear musicians use to get their work done and their music made. We try to go beyond what you can find out from an official gear manufacturer website and find out what's tools and tricks let a musician be productive.
 
-### More Information
+### About the site
 
-A place to include any other types of information that you'd like to include about yourself.
+This site is heavily influenced by [UsesThis.com](https://usesthis.com/).
 
-### Contact me
+Hosted on [Github](https://github.com/timbarclay/PlaysThis), using [Jekyll](http://jekyllrb.com/) and based on [JekyllNow](https://github.com/barryclark/jekyll-now).
 
-[email@domain.com](mailto:email@domain.com)
+### Suggest a musician
+
+<a href="https://www.twitter.com/{{ site.footer-links.twitter }}"><i class="svg-icon twitter"></i></a>
