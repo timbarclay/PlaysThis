@@ -20,7 +20,7 @@ Hosted at [playsthis.com](http://playsthis.com)
         gem 'github-pages'
         gem 'rouge', '1.3.0'
         gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-
+        
 * Install Bundler (http://bundler.io/) - `gem install bundler`
 * Serve with `bundle exec jekyll serve`
 
