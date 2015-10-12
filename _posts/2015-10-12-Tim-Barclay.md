@@ -29,7 +29,7 @@ I use (mostly) [Zildjian](http://zildjian.com/) cymbals:
 * 18" Z-custom medium crash
 * 18" low china boy
 * 21" Z-custom MegaBell ride
-* 18" [Stagg](http://www.staggmusic.com/en/products/drums_percussion/cymbals_gongs.html) Furia crash with O-zone holes but by Ben Camp at [Cymbal Magic](http://cymbalmagic.com/)
+* 18" [Stagg](http://www.staggmusic.com/en/products/drums_percussion/cymbals_gongs.html) Furia crash with O-zone holes done by Ben Camp at [Cymbal Magic](http://cymbalmagic.com/)
 
 ![Mapex and Zildjians]({{ site.baseurl }}/images/TimB2.jpg)
 
