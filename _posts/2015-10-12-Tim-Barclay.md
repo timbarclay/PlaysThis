@@ -18,7 +18,7 @@ At gigs I play a [Mapex](http://mapexdrums.com/us/) Meridian Black Raven kit:
 * 10", 12", 14" & 16" toms (although I often don't bother lugging the 16")
 * 14" snare
 
-I've currently got all [Evans](http://www.evansdrumheads.com/EvansHome.Page?ActiveID=1194) heads (EMAD2 on the bass drum, EC2s on the toms, Power Center Reverse Dot on the snare and G1s for all the reso heads) but I'm not very particular about that and change my mind about what I live every time I change them.
+I've currently got all [Evans](http://www.evansdrumheads.com/EvansHome.Page?ActiveID=1194) heads (EMAD2 on the bass drum, EC2s on the toms, Power Center Reverse Dot on the snare and G1s for all the reso heads) but I'm not very particular about that and change my mind about what I like every time I change them.
 
 For the reso head on my bass drum, I use a [DrumPort](http://www.drumport.co.uk/) which I absolutely love and makes my bass drum look and sounds crazy and amazing.
 
