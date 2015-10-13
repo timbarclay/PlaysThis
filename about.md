@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This site finds out what gear musicians use to get their work done and their music made. We try to go beyond what you can find out from an official gear manufacturer website and find out what's tools and tricks let a musician be productive.
+This site finds out what gear musicians use to get their work done and their music made. We try to go beyond what you can find out from an official gear manufacturer website and find out what tools and tricks help each musician be productive.
 
 ### About the site
 
