@@ -20,10 +20,27 @@ Hosted at [playsthis.com](http://playsthis.com)
         gem 'github-pages'
         gem 'rouge', '1.3.0'
         gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-        
+
 * Install Bundler (http://bundler.io/) - `gem install bundler`
 * Serve with `bundle exec jekyll serve`
 
 ### Extra helpful setup stuff
 
 * https://help.github.com/articles/using-jekyll-with-pages/
+
+### Tagging
+
+The tagging system is appreciatively stolen from [MindDust](http://www.minddust.com/post/tags-and-categories-on-github-pages/). When adding a new tag:
+
+* Add it to `_data/tags.yml`:
+
+        - slug: drums
+          name: Drums
+
+* Add a new empty template `tag/drums.md` with the front matter:
+
+        ---
+        layout: tag-page
+        tag: drums
+        permalink: /tag/drums/
+        ---

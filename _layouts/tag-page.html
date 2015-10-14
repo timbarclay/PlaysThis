@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h2>Posts tagged with {{ page.tag }}</h2>
+<div>
+  {% if site.tags[page.tag] %}
+    {% for post in site.tags[page.tag] %}
+      <article class="post">
+
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+        <div class="entry">
+          {{ post.description }}
+        </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endfor %}
+  {% else %}
+    <p>There are no posts for this tag.</p>
+  {% endif %}
+</div>
