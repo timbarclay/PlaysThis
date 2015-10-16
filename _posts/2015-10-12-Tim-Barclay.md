@@ -3,9 +3,8 @@ layout: post
 title: Tim Barclay
 description: Drums - Heaven or Hell, ex-Neuronspoiler
 tags: [drums, mapex, zildjian]
+image: /images/TimB1.jpg
 ---
-
-![Tim Barclay]({{ site.baseurl }}/images/TimB1.jpg)
 
 ### Who are you and what do you do?
 

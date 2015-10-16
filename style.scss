@@ -156,10 +156,6 @@ img {
 // .masthead
 //
 
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
@@ -249,12 +245,50 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
+  margin-top: 2em;
   border-bottom: 1px solid $lightGray;
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+
+  @include mobile {
+    width: 100%;
+  }
 }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
+.posts {
+  .image-container {
+    display: inline-block;
+    position: relative;
+    width: 90%;
+
+    &:hover {
+      box-shadow: 0px 0px 1px $darkerGray;
+    }
+
+    @include mobile {
+      width: 100%;
+    }
+  }
+
+  .dummy-image {
+    margin-top: 75%;
+  }
+
+  .article-image {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-size: cover;
+  }
+
+  .post-date {
+      color: $gray;
+      font-size: 0.8em;
+      font-style: italic;
+  }
 }
 
 .post {

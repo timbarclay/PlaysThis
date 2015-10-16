@@ -6,13 +6,21 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <div class="image-container">
+          <div class="dummy-image"></div>
+          <div class="article-image"
+            style="background-image:url({{ site.baseurl }}{{ post.image }})"></div>
+        </div>
+      </a>
+
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-      <div class="entry">
-        {{ post.description }}
-      </div>
+      <div class="entry">{{ post.description }}</div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <div class="post-date">
+        {{ post.date | date: '%B %d, %Y' }}
+      </div>
     </article>
   {% endfor %}
 </div>
