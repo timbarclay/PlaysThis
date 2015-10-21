@@ -6,6 +6,8 @@ tags: [drums, mapex, zildjian]
 image: /images/TimB1.jpg
 ---
 
+![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+
 ### Who are you and what do you do?
 
 I'm Tim Barclay and I've played drums in a small handful of British heavy metal bands. Right now I'm playing in a Dio tribute band called [Heaven or Hell?](https://www.facebook.com/Heavenorhellband?fref=ts). Before that I played in London based NWOTHM band [Neuronspoiler](http://www.neuronspoiler.com/), glam/classic metal band [Serpent Sins](https://myspace.com/serpentsins) and punk band [Kunk](https://myspace.com/kunk).
