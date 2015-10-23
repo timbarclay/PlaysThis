@@ -8,6 +8,8 @@ name: Plays This
 # Short bio or description (displayed in the header)
 description: What musicians use to get things done
 
+main-image: /images/main-image.jpg
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar:
 
