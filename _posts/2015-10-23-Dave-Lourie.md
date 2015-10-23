@@ -2,7 +2,7 @@
 layout: post
 title: Dave Lourie
 description: Drums - Independent, sessions, teaching
-tags: [drums, yamaha, meinl]
+tags: [drums, yamaha, promark, evans, meinl]
 image: /images/DaveL1.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Tim Barclay
 description: Drums - Heaven or Hell, ex-Neuronspoiler
-tags: [drums, mapex, zildjian]
+tags: [drums, mapex, zildjian, evans]
 image: /images/TimB1.jpg
 ---
 
