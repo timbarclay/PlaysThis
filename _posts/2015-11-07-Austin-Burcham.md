@@ -8,7 +8,7 @@ image: /images/AustinB1.jpg
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
 
-*** Who are you and what do you do?
+### Who are you and what do you do?
 
 My name is Austin Burcham and I am drummer based out of Los Angeles, CA. I have been playing drums since my teenage years and moved to Hollywood, CA in 2008 to attend Musician’s Institute. I graduated from M.I. in 2010 with an Associate of Arts in Drumset Performance and began playing in a variety of bands around LA in genres ranging from rock to jazz to progressive metal.
 
@@ -16,7 +16,7 @@ I am currently focusing most of my efforts on creating content for [my YouTube c
 
 I also have a [website](http://www.abbdrums.com) where I offer remote studio drumming via online collaboration, along with personal lessons and pictures of all my drum gear/studio.
 
-*** What do you use?
+### What do you use?
 
 Here is an extensive list of all the gear I use on a daily basis...
 
@@ -116,7 +116,7 @@ Lenses:
 * [Sigma 18­35mm F1.8](http://www.amazon.co.uk/Sigma-18-35mm-F1-8-Lens-Canon/dp/B00DBL0NLQ)
 * [Tokina 11­16mm F2.8](http://www.amazon.co.uk/Tokina-AT-X-11-16mm-F2-8-Lens/dp/B0014Z3XMC)
 
-*** What would be your dream set up?
+### What would be your dream set up?
 
 That’s a tough one... I am always just thinking about my next upgrade that’s within reason that I can do to improve the quality of my content or my workflow. If I could just get anything I want, well, I guess I would want all these things...
 
