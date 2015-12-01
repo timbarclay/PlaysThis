@@ -78,3 +78,9 @@
 
 - slug: boss
   name: Boss
+
+- slug: composer
+  name: Composer
+
+- slug: fender
+  name: Fender
