@@ -24,9 +24,9 @@
     <meta property="twitter:title" content="{{ site.name }}" />
     {% endif %}
 
-    <% if page.footer-links.twitter %}
-    <meta property="twitter.site" content="@{{page.footer-links.twitter}}"
-    <% endif %>
+    {% if site.footer-links.twitter %}
+    <meta property="twitter.site" content="@{{ site.footer-links.twitter }}" />
+    {% endif %}
 
 
 
