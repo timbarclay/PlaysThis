@@ -292,6 +292,14 @@ nav {
     margin-top: 10px;
   }
 
+  #post-meta {
+    font-size: 0.8em;
+    width: 40%;
+    @include mobile {
+      width: 100%;
+    }
+  }
+
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
