@@ -2,7 +2,7 @@
 layout: post
 title: Andy Rehfeldt
 description: Composer, guitar - Endless Noise, YouTube
-tags: [composer, guitars, fender, line6, alesis]
+tags: [composer, guitar, fender, line6, alesis]
 image: /images/AndyR1.JPG
 ---
 

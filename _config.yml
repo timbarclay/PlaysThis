@@ -49,8 +49,11 @@ url: http://www.playsthis.com
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: "/PlaysThis"
-# baseurl: "/"
+baseurl: ""
+
+paginate: 8
+
+paginate_path: "/page:num/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
