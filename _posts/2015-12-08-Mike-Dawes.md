@@ -18,7 +18,7 @@ I also dabble in other sessions and TV work. I make apps, write for guitar magaz
 
 ### What do you use?
 
-Man, big question. Ok I guess first and foremost I use the acoustic guitar, like, really abuse it. I try an coax as many sounds out of it as possible, lots of drum effects and sparkly harmonics. I really try and push it, but always keep the music at the heart of anything I'm working on. There's no point doing silly things if you're going to sound silly as well. Do check out the videos on [YouTube](https://www.youtube.com/user/mikedawesofficial) for a more musical and eloquent explanation of what I mean. You can just search 'Mike Dawes' or visit http://mikedawes.com.
+Man, big question. Ok I guess first and foremost I use the acoustic guitar, like, really abuse it. I try an coax as many sounds out of it as possible, lots of drum effects and sparkly harmonics. I really try and push it, but always keep the music at the heart of anything I'm working on. There's no point doing silly things if you're going to sound silly as well. Do check out the videos on [YouTube](https://www.youtube.com/user/mikedawesofficial) for a more musical and eloquent explanation of what I mean. You can just search 'Mike Dawes' or visit [mikedawes.com](http://mikedawes.com).
 
 ![Andreas Cuntz Indian Rose]({{ site.baseurl }}/images/MikeD2.jpg)
 
