@@ -2,7 +2,7 @@
 layout: post
 title: Mike Dawes
 description: Guitars - Solo, Justin Hayward
-tags: [guitar, cuntz, anderson, fender]
+tags: [guitar, cuntz, anderson, fender, benjamin, dimarzio, ernieball, g7th, zvex, intune]
 image: /images/MikeD1.jpg
 ---
 
@@ -34,9 +34,13 @@ Some of these pedals are assigned to certain pickups, for example the Octave and
 
 Check out this [rig rundown](https://www.youtube.com/watch?v=NZtIuWDRWBU) video for a visual demonstration.
 
+I use [Ernie Ball](http://www.ernieball.co.uk/) strings (Nickel, Aluminium Bronze or Everlast depending on how sweaty the gig will be/the position of Venus and if I want any extra kick out of the magnetic pickup - Nickel strings definitely help with this but can sometimes sound overpowered when ‘clicking’ the thumb into the fret wire. Great for bringing out that Octave though!). These are usually the following gauges: 13, 17, 24, 32, 42, 56. I also use [G7th](http://www.g7th.com/home.aspx) capos made in the UK, awesome capos, they look like tiny tiny Porsches.
+
+On the rare occasions where a pick is necessary, mostly at the Justin Hayward concerts, I use picks from a cool company called ['In Tune'](http://intunegp.com/). They can pretty much make any pick you want and they are very reasonably priced.
+
 ![Mike Dawes]({{ site.baseurl }}/images/MikeD3.jpg)
 
-For the Justin Hayward shows I also have an electric rig. This consists of a [Tom Anderson Custom Telecaster](http://www.andersonguitars.com/product_information/models/t_family/tfam.cfm) through 2 [Fender](http://intl.fender.com/en-GB/amps/) combos. Pedals in this chain include: Compressor, Overdrive, Chorus, Delay, Reverb. I use the reverb as a boost for solos. The chorus is always on (it makes our little band sound a little bigger)
+For the Justin Hayward shows I also have an electric rig. This consists of a [Tom Anderson Custom Telecaster](http://www.andersonguitars.com/product_information/models/t_family/tfam.cfm) through 2 [Fender](http://intl.fender.com/en-GB/amps/) combos. Pedals in this chain include: Compressor, Overdrive, Chorus, Delay, Reverb. I use the reverb as a boost for solos. The chorus is always on (it makes our little band sound a little bigger).
 
 For writing I use tea, tea always works. I also have some gnarly fingernails on my picking hand that really help with some of the techniques I employ.
 
