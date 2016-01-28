@@ -4,6 +4,8 @@ title: Alexey Poblete
 description: Drums - Moxy and The Influence, Youtube
 tags: [drums, pearl, zildjian]
 image: /images/AlexeyP1.jpg
+redirect_from:
+ - /alexey-poblete/
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})

@@ -4,6 +4,8 @@ title: Tom Humphrey
 description: Guitars - Milk White Throat
 tags: [guitar, prs, orange, boss]
 image: /images/TomH1.jpg
+redirect_from:
+ - /tom-humphrey/
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})

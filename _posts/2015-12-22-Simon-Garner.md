@@ -4,6 +4,8 @@ title: Simon Garner
 description: Guitars - Tangled Limbs, Bob Constant & The Goodbye Horses
 tags: [guitar, gretsch, boss, fender]
 image: /images/SimonG1.jpg
+redirect_from:
+ - /simon-garner/
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})

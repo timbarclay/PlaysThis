@@ -4,6 +4,8 @@ title: Michael Vaughan
 description: Drums - Neverworld
 tags: [drums, pearl, paiste, remo, promark]
 image: /images/MikeV1.jpg
+redirect_from:
+ - /michael-vaughan/
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})

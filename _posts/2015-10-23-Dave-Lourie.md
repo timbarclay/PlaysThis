@@ -4,6 +4,8 @@ title: Dave Lourie
 description: Drums - Independent, sessions, teaching
 tags: [drums, yamaha, promark, evans, meinl]
 image: /images/DaveL1.jpg
+redirect_from:
+ - /dave-lourie/
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})

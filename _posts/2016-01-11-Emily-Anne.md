@@ -4,6 +4,8 @@ title: Emily Anne
 description: Drums - Axxion, Phantom, ex-Skull Fist
 tags: [drums, pearl, sabian, ludwig, los-cabos]
 image: /images/EmilyA1.jpg
+redirect_from:
+ - /emily-anne/
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})

@@ -4,6 +4,8 @@ title: Austin Burcham
 description: Drums - Independent, YouTube
 tags: [drums, pearl, sabian, remo]
 image: /images/AustinB1.jpg
+redirect_from:
+ - /austin-burcham/
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})

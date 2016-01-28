@@ -4,6 +4,8 @@ title: Lindsay Artkop
 description: Drums - Independent
 tags: [drums, mapex, zildjian, evans, vicfirth]
 image: /images/LindsayA1.jpg
+redirect_from:
+ - /lindsay-artkop/
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})

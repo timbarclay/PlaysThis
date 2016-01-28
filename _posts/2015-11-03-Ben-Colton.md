@@ -4,6 +4,8 @@ title: Ben Colton
 description: Vocals, Guitars - Neverworld, All Seeing Eyes
 tags: [vocals, guitar, dean, charvel, jackson, line6]
 image: /images/BenC1.jpg
+redirect_from:
+ - /ben-colton/
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})

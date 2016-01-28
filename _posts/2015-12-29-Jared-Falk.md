@@ -4,6 +4,8 @@ title: Jared Falk
 description: Drums - Drumeo, teaching
 tags: [drums, yamaha, paiste, evans]
 image: /images/JaredF1.jpg
+redirect_from:
+ - /jared-falk/
 ---
 
 ![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
