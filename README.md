@@ -18,7 +18,6 @@ Hosted at [playsthis.com](http://playsthis.com)
 
         source 'https://rubygems.org'
         gem 'github-pages'
-        gem 'rouge', '1.3.0'
         gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 * Install Bundler (http://bundler.io/) - `gem install bundler`
@@ -50,7 +49,3 @@ The tagging system is appreciatively stolen from [MindDust](http://www.minddust.
 Paths in Github pages are case sensitive and I, slightly short-sightedly, started off using title case for the paths of posts. This is bad as [any](http://wiredimpact.com/blog/never-use-capital-letters-urls/) [number](http://www.goinflow.com/redirect-uppercase-urls-to-lowercase/) [of](http://brianflove.com/2014/08/11/lowercase-your-uris/) [blogs](http://www.chrisabernethy.com/force-lower-case-urls-with-mod_rewrite/) are more than willing to shout about, so I decided to switch to using all lower case from mid January 2016 onwards.
 
 Github pages [doesn't support](https://help.github.com/articles/redirects-on-github-pages/) server config files, like `.htaccess` so to handle the existing posts, I added [JekyllRedirectFrom](https://github.com/jekyll/jekyll-redirect-from) to redirect lower case paths to the existing mixed case paths. In some ways it might have been better to change the existing paths to lower case and add redirects from the old mixed case versions but then anyone following an existing link would see an ugly redirect page for a second and I'd rather minimise how much that happens. Not to mention it would be a hassle to rename them all.
-
-The downside of redirecting like this is that on file systems that are case insensitive already - such as the Windows machine I'm using for local development - it gets into a redirect loop, as [described here](https://www.bountysource.com/issues/5557911-issues-with-jekyll-serve-on-case-insensitive-file-systems).
-
-So when working with a mixed-case filename post locally, it's probably worth turning off JekyllRedirectFrom first or commenting out the redirect rule in the post front matter.
