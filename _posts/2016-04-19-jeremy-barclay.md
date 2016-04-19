@@ -14,6 +14,8 @@ redirect_from:
 
 My name is Jeremy and I’m the guitarist for [Little Grim](https://www.facebook.com/littlegrimuk/), a South London alt/indie group. Think Stone Roses meets the Strokes meets 1970s funk and you’ll get a general idea of what we do – or check out our recently released single, [Sparks](http://amusicblogyea.com/2016/04/18/exclusive-video-premiere-little-grim-sparks/).
 
+<p><div class='embed-container'><iframe src="https://www.youtube.com/embed/n25trQDSUrk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div></p>
+
 ### What do you use?
 
 My set-up is simple, partly because I’m a purist, and partly because I’m broke. So it consists of a [2001 Fender American Standard Stratocaster](http://intl.fender.com/en-GB/guitars/stratocaster/) going into a [Vox AC15](http://www.voxamps.com/ac15c1), with a few pedals in-between. The Vox, which was part of my set-up long before I got my first American guitar, completely opened up my sound. It’s capable of bell-like clean tones and has plenty of grit, too. It’s the perfect size for the size of venues we play. I’ve played through an [AC30](http://www.voxamps.com/ac30c2) before (which belongs to our drummer) but never found myself in a situation where I could really get the most out of it – like driving a Ferrari in Central London.
