@@ -12,9 +12,7 @@ redirect_from:
 
 ### Who are you and what do you do? 
 
-My name is Jeremy and I’m the guitarist for [Little Grim](https://www.facebook.com/littlegrimuk/), a South London alt/indie group. Think Stone Roses meets the Strokes meets 1970s funk and you’ll get a general idea of what we do – or check out our recently released single, Sparks, on YouTube.
-
-<p><div class='embed-container'><iframe src="https://www.youtube.com/embed/n25trQDSUrk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div></p>
+My name is Jeremy and I’m the guitarist for [Little Grim](https://www.facebook.com/littlegrimuk/), a South London alt/indie group. Think Stone Roses meets the Strokes meets 1970s funk and you’ll get a general idea of what we do – or check out our recently released single, [Sparks](http://amusicblogyea.com/2016/04/18/exclusive-video-premiere-little-grim-sparks/).
 
 ### What do you use?
 
