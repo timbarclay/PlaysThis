@@ -8,7 +8,7 @@ layout: default
 <div class="posts">
   {% if site.tags[page.tag] %}
     {% for post in site.tags[page.tag] %}
-      <div class="main-list-post small-12 medium-6 columns">
+      <div class="main-list-post small-12 medium-6 end columns">
         {% include postThumbnail.html %}
       </div>
     {% endfor %}
