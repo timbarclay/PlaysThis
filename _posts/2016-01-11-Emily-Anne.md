@@ -2,7 +2,7 @@
 layout: post
 title: Emily Anne
 description: Drums - Axxion, Phantom, ex-Skull Fist
-tags: [drums, pearl, sabian, ludwig, los-cabos]
+tags: [drums, pearl, sabian, ludwig, los-cabos, metal]
 image: /images/EmilyA1.jpg
 redirect_from:
  - /emily-anne/

@@ -2,7 +2,7 @@
 layout: post
 title: Caroline Dearnley
 description: Cello - Britten Sinfonia, Britten Oboe Quartet, Sessions
-tags: [cello, milanese, ipad]
+tags: [cello, milanese, ipad, classical]
 image: /images/CarolineD1.jpg
 redirect_from:
  - /caroline-dearnley/

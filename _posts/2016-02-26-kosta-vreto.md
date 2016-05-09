@@ -2,7 +2,7 @@
 layout: post
 title: Kosta Vreto
 description: Guitars - Wardrum, Jaded Star
-tags: [guitar, papazoglou, telegun]
+tags: [guitar, papazoglou, telegun, metal]
 image: /images/kostav1.jpg
 redirect_from:
  - /Kosta-Vreto/

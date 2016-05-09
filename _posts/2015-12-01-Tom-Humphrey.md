@@ -2,7 +2,7 @@
 layout: post
 title: Tom Humphrey
 description: Guitars - Milk White Throat
-tags: [guitar, prs, orange, boss]
+tags: [guitar, prs, orange, boss, metal]
 image: /images/TomH1.jpg
 redirect_from:
  - /tom-humphrey/

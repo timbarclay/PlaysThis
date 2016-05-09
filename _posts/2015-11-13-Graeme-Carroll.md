@@ -2,7 +2,7 @@
 layout: post
 title: Graeme Carroll
 description: Keyboards, mandolin - Deep Purple In Rock, Heaven or Hell, Brother Crow
-tags: [keyboards, mandolin, korg, capek]
+tags: [keyboards, mandolin, korg, capek, rock]
 image: /images/GraemeC1.jpg
 redirect_from:
  - /graeme-carroll/

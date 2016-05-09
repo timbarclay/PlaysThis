@@ -147,3 +147,18 @@
 
 - slug: shure
   name: Shure
+  
+- slug: metal
+  name: Metal
+  
+- slug: classical
+  name: Classical
+  
+- slug: rock
+  name: Rock
+  
+- slug: acoustic
+  name: Acoustic
+  
+- slug: alternative
+  name: Alternative

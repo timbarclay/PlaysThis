@@ -2,7 +2,7 @@
 layout: post
 title: Linzey Rae
 description: Vocals - The Anchor, YouTube
-tags: [vocals, electrovoice, shure]
+tags: [vocals, electrovoice, shure, metal]
 image: /images/linzeyr1.jpg
 redirect_from:
  - /Linzey-Rae/

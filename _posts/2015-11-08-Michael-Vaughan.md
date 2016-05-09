@@ -2,7 +2,7 @@
 layout: post
 title: Michael Vaughan
 description: Drums - Neverworld
-tags: [drums, pearl, paiste, remo, promark]
+tags: [drums, pearl, paiste, remo, promark, metal]
 image: /images/MikeV1.jpg
 redirect_from:
  - /michael-vaughan/

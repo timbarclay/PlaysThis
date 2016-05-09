@@ -12,7 +12,7 @@ redirect_from:
 
 ### Who are you and what do you do?
 
-My name is [Andy Rehfeldt](http://www.andyrehfeldt.com/).  I am a composer at [Endless Noise](http://www.endlessnoise.com/) in Los Angeles.  I am best known for my YouTube channels, [Andy Rehfeldt](https://www.youtube.com/user/AndyRehfeldt) and [Wilton Turdley](https://www.youtube.com/user/WiltonTurdley) (also [here](https://vimeo.com/user14729802) and [here](https://www.youtube.com/channel/UCh91VOXtc1_J7GNWkqIbSJg)).
+My name is [Andy Rehfeldt](http://www.andyrehfeldt.com/).  I am a composer at [Endless Noise](http://www.endlessnoise.com/) in Los Angeles. I am best known for my YouTube channels, [Andy Rehfeldt](https://www.youtube.com/user/AndyRehfeldt) and [Wilton Turdley](https://www.youtube.com/user/WiltonTurdley) (also [here](https://vimeo.com/user14729802) and [here](https://www.youtube.com/channel/UCh91VOXtc1_J7GNWkqIbSJg)).
 
 On YouTube, I create video dubs where I change the musical genre of famous bands and pop stars into something much more entertaining, in my opinion. I also play guitar at bar band gigs in Orange County and Los Angeles.
 

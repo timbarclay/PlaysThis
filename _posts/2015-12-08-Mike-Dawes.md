@@ -2,7 +2,7 @@
 layout: post
 title: Mike Dawes
 description: Guitars - Solo, Justin Hayward
-tags: [guitar, cuntz, anderson, fender, benjamin, dimarzio, ernieball, g7th, zvex, intune]
+tags: [guitar, cuntz, anderson, fender, benjamin, dimarzio, ernieball, g7th, zvex, intune, acoustic]
 image: /images/MikeD1.jpg
 redirect_from:
  - /mike-dawes/

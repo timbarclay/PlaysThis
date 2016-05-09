@@ -2,7 +2,7 @@
 layout: post
 title: Alexey Poblete
 description: Drums - Moxy and The Influence, Youtube
-tags: [drums, pearl, zildjian]
+tags: [drums, pearl, zildjian, rock, metal]
 image: /images/AlexeyP1.jpg
 redirect_from:
  - /alexey-poblete/

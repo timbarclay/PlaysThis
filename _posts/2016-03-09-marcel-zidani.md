@@ -2,7 +2,7 @@
 layout: post
 title: Marcel Zidani
 description: Piano, Composer - Concert Pianist, teaching
-tags: [piano, composer, bechstein]
+tags: [piano, composer, bechstein, classical]
 image: /images/marcelz1.jpg
 redirect_from:
  - /Marcel-Zidani/

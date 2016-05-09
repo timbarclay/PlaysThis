@@ -237,6 +237,7 @@ nav {
   margin-top: 2em;
   display: inline-block;
   vertical-align: top;
+  position: releative;
 
   @include mobile {
     width: 100%;
@@ -335,6 +336,12 @@ nav {
     .post {
       width: 100%;
     }
+}
+
+@media only screen and (min-width: 40.063em) {
+  .sidebar {
+    border-left: 1px solid $lightGray;
+  }
 }
 
 //

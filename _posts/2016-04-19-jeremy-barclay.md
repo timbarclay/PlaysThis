@@ -2,7 +2,7 @@
 layout: post
 title: Jeremy Barclay
 description: Guitars - Little Grim
-tags: [guitar, fender, vox]
+tags: [guitar, fender, vox, alternative]
 image: /images/jeremyb1.jpg
 redirect_from:
  - /Jeremy-Barclay/
