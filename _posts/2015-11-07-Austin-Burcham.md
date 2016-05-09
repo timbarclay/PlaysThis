@@ -35,12 +35,12 @@ Snares:
 
 Cymbals:
 
-* [Sabian 14” HHX Evolution](http://www.sabian.com/en/cymbal/11402xeb-14-inch-hhx-evolution-hats) Hi Hats
-* [Sabian 21” HHX Groove Ride](http://www.sabian.com/en/cymbal/12189xn-21-inch-hhx-groove-ride)
-* [Sabian 16” AAX X­Plosion Fast Crash](http://www.sabian.com/en/cymbal/21687xb-16-inch-aax-x-plosion-crash)
+* [Sabian 14” HHX Evolution](http://amzn.to/1VQmXo6) Hi Hats
+* [Sabian 21” HHX Groove Ride](http://amzn.to/1VQmZfR)
+* [Sabian 16” AAX X­Plosion Fast Crash](http://amzn.to/1Wkn8bR)
 * [Sabian 18” HHX X­Plosion Crash](http://www.sabian.com/en/cymbal/11887xb-18-inch-hhx-x-plosion-crash)
-* [Paiste 14” Signature Sound Edge](http://paiste.com/e/cymbals.php?category=3&family=3&action=category&menuid=240) Hi Hats stacked with a 10” Signature Splash
-* [Sabian 16” APX O­Zone Crash](http://www.sabian.com/en/cymbal/21600x-16-inch-aax-o-zone-crash) stacked with [10” HHX Evolution Splash](http://www.sabian.com/en/cymbal/11005xeb-10-inch-hhx-evolution-splash)
+* [Paiste 14” Signature Sound Edge](http://amzn.to/1VQn4Qq) Hi Hats stacked with a [10” Signature Splash](http://amzn.to/1Wknmzy)
+* [Sabian 16” APX O­Zone Crash](http://www.sabian.com/en/cymbal/21600x-16-inch-aax-o-zone-crash) stacked with [10” HHX Evolution Splash](http://amzn.to/1VQn7vK)
 * [Wuhan 16” Medium Thin Crash](http://www.amazon.com/WUHAN-WUCR16MT-Crash-16-Inch-Medium/dp/B000A1HU1G)
 * [Wuhan 18” Medium Thin Crash](http://www.drumfactorydirect.com/index.php?main_page=index&cPath=13_39_680)
 
@@ -48,55 +48,55 @@ Cymbals:
 
 Pedals:
 
-* [Pearl Powershifter Eliminator](http://pearldrum.com/products/hardware/drum-pedals/powershifter-eliminator) Double Pedal
+* [Pearl Powershifter Eliminator](http://amzn.to/1WklbMC) Double Pedal
 
 Throne:
 
-* [Tama HT741 Ergo­Rider Throne](http://www.musiciansfriend.com/drums-percussion/tama-ergo-rider-throne-with-backrest) with Backrest
+* [Tama HT741 Ergo­Rider Throne](http://amzn.to/1VQm7rn) with Backrest
 
 Drum Heads:
 
-* [Remo Emperor Coated](http://www.remo.com/portal/products/6/50/161/co_emperor.html) (snare)
-* [Remo Powerstroke 3 Coated](http://remo.com/portal/products/3/8/49/156/cl_powerstroke3.html) (kick)
-* [Remo Ambassador Coated](http://www.remo.com/portal/products/6/50/158/co_ambassador.html) (toms)
+* [Remo Emperor Coated](http://amzn.to/1WklfM8) (snare)
+* [Remo Powerstroke 3 Coated](http://amzn.to/1Wklo2i) (kick)
+* [Remo Ambassador Coated](http://amzn.to/1WklrLz) (toms)
 
 Sticks:
 
-* Currently enjoying the [Vic Firth JoJo Mayer Signature](http://www.vicfirth.com/artists/mayer.php) Sticks
+* Currently enjoying the [Vic Firth JoJo Mayer Signature](http://amzn.to/1WkluqP) Sticks
 
 Headphones:
 
-* [Direct Sound EX­29 Extreme Isolation](http://www.extremeheadphones.com/passive-noise-isolation-hearing-protection-headphones/studio-products/ex-29-headphones/) Headphones (custom)
-* [Shure SE425](http://www.shure.co.uk/products/earphones/se425) In­Ear Monitors
+* [Direct Sound EX­29 Extreme Isolation](http://amzn.to/1VQme6u) Headphones (custom)
+* [Shure SE425](http://amzn.to/1VQmh1S) In­Ear Monitors
 
 Microphones:
 
-* [Audix ADX51](http://www.audixusa.com/docs_12/units/ADX51.shtml) (overheads)
-* [Audix D6](http://www.audixusa.com/docs_12/units/D6.shtml) (kick drum)
-* [Audix i5](http://www.audixusa.com/docs_12/units/i5.shtml) (snare top)
-* [Shure SM57](http://www.shure.co.uk/products/microphones/sm57) (snare bottom)
-* [Audix D2](http://www.audixusa.com/docs_12/units/D2.shtml) (rack tom)
-* [Audix D4](http://www.audixusa.com/docs_12/units/D4.shtml) (floor toms)
+* [Audix ADX51](http://amzn.to/1VQmiCZ) (overheads)
+* [Audix D6](http://amzn.to/1VQmkLm) (kick drum)
+* [Audix i5](http://amzn.to/1WklN4J) (snare top)
+* [Shure SM57](http://amzn.to/1VQmlPd) (snare bottom)
+* [Audix D2](http://amzn.to/1WklSp8) (rack tom)
+* [Audix D4](http://amzn.to/1WklVRR) (floor toms)
 * [AKG Perception 200](http://www.akg.com/pro/p/perception-200) (room)
-* [Audio Technica AT899](http://www.audio-technica.com/cms/wired_mics/102fa42601dd18dc/) Lavalier (voice)
+* [Audio Technica AT899](http://amzn.to/1VQmqCG) Lavalier (voice)
 
 Recording Gear:
 
-* [Focusrite Liquid Saffire 56](http://us.focusrite.com/firewire-audio-interfaces/liquid-saffire-56) Audio Interface
-* [Focusrite Octopre MKII](http://us.focusrite.com/mic-pres/octopre-mkii) Dynamic Preamp
-* [Focusrite ISA 428 MKII](http://us.focusrite.com/mic-pres/isa-428-mkii) Preamp
-* [ART Headamp 6 Pro](http://artproaudio.com/art_products/audio_solutions/headphone_amplifiers/product/headamp6_pro/)
-* [ART P16 XLR Patchbay](http://artproaudio.com/art_products/audio_solutions/splitters_patchbays/product/p16/)
+* [Focusrite Liquid Saffire 56](http://amzn.to/1Wkm3Rs) Audio Interface
+* [Focusrite Octopre MKII](http://amzn.to/1VQmuCh) Dynamic Preamp
+* [Focusrite ISA 428 MKII](http://amzn.to/1VQmtye) Preamp
+* [ART Headamp 6 Pro](http://amzn.to/1WkmbAd)
+* [ART P16 XLR Patchbay](http://amzn.to/1WkmgnB)
 
 Studio Monitors:
 
-* [Yamaha HS50M](http://uk.yamaha.com/en/products/music-production/speakers/hs_series/hs50m/?mode=model)
+* [Yamaha HS50M](http://amzn.to/1VQmAtA)
 * [Event ALP5](http://www.soundonsound.com/sos/jan07/articles/eventalp5.htm)
 
 Computer:
 
 * [Apple 15” Retina Macbook Pro (2012)](http://www.apple.com/uk/macbook-pro/features-retina/)
-* [Apple 27” Thunderbolt Display](http://www.apple.com/uk/displays/)
+* [Apple 27” Thunderbolt Display](http://amzn.to/1Wkmon5)
 
 ![Computer set up]({{ site.baseurl }}/images/AustinB3.jpg)
 
@@ -111,19 +111,19 @@ Software:
 Cameras:
 
 * [Canon T3i (2)](http://www.amazon.com/Canon-Digital-18-55mm-discontinued-manufacturer/dp/B004J3V90Y)
-* [GoPro Hero 4 Silver](http://shop.gopro.com/cameras?gclid=CjwKEAiA3_axBRD5qKDc__XdqQ0SJAC6lecATIbPOWeIs1COweCOfG5FJ862xvVsFBfLDNH4yEjG0xoC1U3w_wcB)
+* [GoPro Hero 4 Silver](http://amzn.to/1VQmIJI)
 
 Lenses:
 
-* [Sigma 18­35mm F1.8](http://www.amazon.co.uk/Sigma-18-35mm-F1-8-Lens-Canon/dp/B00DBL0NLQ)
-* [Tokina 11­16mm F2.8](http://www.amazon.co.uk/Tokina-AT-X-11-16mm-F2-8-Lens/dp/B0014Z3XMC)
+* [Sigma 18­35mm F1.8](http://amzn.to/1VQmL8h)
+* [Tokina 11­16mm F2.8](http://amzn.to/1WkmECy)
 
 ### What would be your dream set up?
 
 That’s a tough one... I am always just thinking about my next upgrade that’s within reason that I can do to improve the quality of my content or my workflow. If I could just get anything I want, well, I guess I would want all these things...
 
 * [Apple Mac Pro](http://www.apple.com/uk/mac-pro/) (12­core w/ 6gb graphics card)
-* [Universal Audio Apollo 16](http://www.uaudio.com/interfaces/apollo-16.html) interface w/ all UA plugins
+* [Universal Audio Apollo 16](http://amzn.to/1VQmP8c) interface w/ all UA plugins
 * [Universal Audio 4­710D](http://www.uaudio.com/hardware/mic-preamps/4-710d.html) Preamp
 * [API 3124](http://apiaudio.com/product.php?id=124) Preamp
 * [Neve Portico 5024](http://rupertneve.com/products/portico-5024/) Preamp
