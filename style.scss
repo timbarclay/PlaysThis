@@ -7,6 +7,7 @@
 
 @import "reset";
 @import "variables";
+@import "foundation";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -21,13 +22,6 @@ body {
 	background: $white;
   font: 18px/1.4 $ptSerif;
   color: $darkGray;
-}
-
-.container {
-  margin: 0 auto;
-  max-width: 1080px;
-  padding: 0 10px;
-  width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -242,7 +236,6 @@ nav {
   padding-bottom: 2em;
   margin-top: 2em;
   display: inline-block;
-  width: 49%;
   vertical-align: top;
 
   @include mobile {
@@ -251,10 +244,15 @@ nav {
 }
 
 .posts {
+  .main-list-post {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
   .image-container {
     display: inline-block;
     position: relative;
-    width: 90%;
+    width: 100%;
 
     &:hover {
       box-shadow: 0px 0px 1px $darkerGray;
@@ -327,6 +325,21 @@ nav {
       line-height: 1.6;
   }
 }
+
+//
+// Side bar
+//
+.sidebar {
+    margin-top: 50px;
+    
+    .post {
+      width: 100%;
+    }
+}
+
+//
+// Footer
+//
 
 .wrapper-footer {
   margin-top: 50px;

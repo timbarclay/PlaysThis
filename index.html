@@ -4,24 +4,9 @@ layout: default
 
 <div class="posts">
   {% for post in paginator.posts %}
-    <article class="post">
-
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <div class="image-container">
-          <div class="dummy-image"></div>
-          <div class="article-image"
-            style="background-image:url({{ site.baseurl }}{{ post.image }})"></div>
-        </div>
-      </a>
-
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-      <div class="entry">{{ post.description }}</div>
-
-      <div class="post-date">
-        {{ post.date | date: '%B %d, %Y' }}
-      </div>
-    </article>
+    <div class="main-list-post small-12 medium-6 columns">
+      {% include postThumbnail.html %}
+    </div>
   {% endfor %}
 </div>
 

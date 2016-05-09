@@ -2,20 +2,15 @@
 layout: default
 ---
 
-<h2>Posts tagged with {{ page.tag }}</h2>
-<div>
+<div class="small-12 columns">
+  <h2>Posts tagged with {{ page.tag }}</h2>
+</div>
+<div class="posts">
   {% if site.tags[page.tag] %}
     {% for post in site.tags[page.tag] %}
-      <article class="post">
-
-        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-        <div class="entry">
-          {{ post.description }}
-        </div>
-
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      </article>
+      <div class="main-list-post small-12 medium-6 columns">
+        {% include postThumbnail.html %}
+      </div>
     {% endfor %}
   {% else %}
     <p>There are no posts for this tag.</p>

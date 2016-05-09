@@ -2,15 +2,19 @@
 layout: default
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
-  <div class="description">{{ page.description }}</div>
-  <div class="date">{{ page.date | date: "%B %e, %Y" }}</div>
-  {% include tags.html %}
+<div class="post-page">
+  <article class="post small-12 medium-8 columns">
+    <h1>{{ page.title }}</h1>
+    <div class="description">{{ page.description }}</div>
+    <div class="date">{{ page.date | date: "%B %e, %Y" }}</div>
+    {% include tags.html %}
 
-  <div class="entry">
-    {{ content }}
+    <div class="entry">
+      {{ content }}
+    </div>
+  </article>
+
+  <div class="posts sidebar small-12 medium-4 columns">
+    {% include related.html %}
   </div>
-
-  {% include disqus.html %}
-</article>
+</div>
