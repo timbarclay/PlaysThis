@@ -15,8 +15,12 @@ layout: default
   </article>
 
   <div class="posts sidebar small-12 medium-4 columns">
-    {% include ad-sidebarTop.html %}
+    <div class="ad-block">
+      {% include ad-sidebarTop.html %}
+    </div>
     {% include related.html %}
-    {% include ad-sidebarBottom.html %}
+    <div class="ad-block">
+      {% include ad-sidebarBottom.html %}
+    </div>
   </div>
 </div>
