@@ -18,7 +18,7 @@ My name is Jeremy and I’m the guitarist for [Little Grim](https://www.facebook
 
 ### What do you use?
 
-My set-up is simple, partly because I’m a purist, and partly because I’m broke. So it consists of a [2001 Fender American Standard Stratocaster](http://intl.fender.com/en-GB/guitars/stratocaster/) going into a [Vox AC15](http://www.voxamps.com/ac15c1), with a few pedals in-between. The Vox, which was part of my set-up long before I got my first American guitar, completely opened up my sound. It’s capable of bell-like clean tones and has plenty of grit, too. It’s the perfect size for the size of venues we play. I’ve played through an [AC30](http://www.voxamps.com/ac30c2) before (which belongs to our drummer) but never found myself in a situation where I could really get the most out of it – like driving a Ferrari in Central London.
+My set-up is simple, partly because I’m a purist, and partly because I’m broke. So it consists of a [2001 Fender American Standard Stratocaster](http://mybook.to/fenderstrat) going into a [Vox AC15](http://mybook.to/voxac15), with a few pedals in-between. The Vox, which was part of my set-up long before I got my first American guitar, completely opened up my sound. It’s capable of bell-like clean tones and has plenty of grit, too. It’s the perfect size for the size of venues we play. I’ve played through an [AC30](http://mybook.to/voxac30) before (which belongs to our drummer) but never found myself in a situation where I could really get the most out of it – like driving a Ferrari in Central London.
  
 My Strat is a complete workhorse, and I treat it as such. I’m not too precious over it, and think any knocks and dinks that it’s earned on the road only make it look better. Sound-wise, it’s unmistakably a Strat. Being a slightly older model, its pick-ups aren’t so hot and I think it has quite a vintage sound which works for me.
 
@@ -26,7 +26,7 @@ My Strat is a complete workhorse, and I treat it as such. I’m not too precious
  
 In the studio I’ve used other guitars. Our first single, Vice, was recorded on an old [Ibanez](http://www.ibanez.com/) semi-hollow, as well as a gorgeous [Fender Deluxe Telecaster](http://intl.fender.com/en-GB/?cgid=fender-products-electric-model-platform-telecaster-deluxe) which was very hard to leave behind.
  
-I can’t get enough of pedals – I even tried to make one once whilst at university, but my soldering skills weren’t up to scratch. I’d like to draw attention to a couple: The [Fulltone Plimsoul Overdrive](http://www.fulltone.com/products/plimsoul) pedal is a completely distinctive overdrive (and far more interesting than their more popular [OCD](http://www.fulltone.com/products/ocd)); and the [TC Electronic Hall of Fame reverb](http://www.tcelectronic.com/hall-of-fame-reverb/)  puts the spring in my Vox to shame.
+I can’t get enough of pedals – I even tried to make one once whilst at university, but my soldering skills weren’t up to scratch. I’d like to draw attention to a couple: The [Fulltone Plimsoul Overdrive](http://www.fulltone.com/products/plimsoul) pedal is a completely distinctive overdrive (and far more interesting than their more popular [OCD](http://www.fulltone.com/products/ocd)); and the [TC Electronic Hall of Fame reverb](http://mybook.to/halloffamereverb)  puts the spring in my Vox to shame.
 
 ### What would be your dream set up?
 

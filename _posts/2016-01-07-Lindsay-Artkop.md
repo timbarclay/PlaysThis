@@ -36,14 +36,14 @@ I also compose and produce my own original music videos. Below is the very first
 
 Zildjian Cymbals:
 
-* [14" K Zildjian Constantinople Hi Hats](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/K-Constantinople-Series/HiHats/14-K-Constantinople-HiHat-Pair)
-* [14" K Zildjian Hi Hats](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/K-Zildjian-Series/14-K-HiHat-Pair)
-* [18" K Zildjian Dark Crash](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/K-Custom-Series/18-K-Custom-Dark-crash)
-* STACK: [11" Zildjian Hybrid Splash](http://zildjian.com/products/drumset-cymbals/cast-bronze-cymbals/k-custom-series/11-k-custom-hybrid-splash) (bottom) [8" Trashformer](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/FX-Series/8-fx-Trashformer) (top)
-* [22" Zildjian High Definition Ride](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/K-Custom-Series/22-K-Custom-High-Definition-Ride)
-* [20" Zildjian K Ride](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/K-Zildjian-Series/20-K-Ride)
-* AUX High Hat: [Zildjian 16" Dark K Crash](http://zildjian.com/products/drumset-cymbals/cast-bronze-cymbals/k-custom-series/16-k-custom-dark-crash) (bottom) [16" K EFX](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/K-Zildjian-Series/16-K-EFX) (top) (Eric Harland Hi Hats)
-* STACK: [Zildjian 20" K Dry Light Ride](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/K-Custom-Series/20-K-Custom-Dry-Light-Ride) (bottom) [12" Spiral Stacker](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/FX-Series/12-fx-Spiral-Stacker) (top)
+* [14" K Zildjian Constantinople Hi Hats](http://myBook.to/zildjianconstantinople14)
+* [14" K Zildjian Hi Hats](http://myBook.to/zildjian14hats)
+* [18" K Zildjian Dark Crash](http://myBook.to/zildjiankdark18)
+* STACK: [11" Zildjian Hybrid Splash](http://myBook.to/zildjian11splash) (bottom) [8" Trashformer](http://myBook.to/8trashformer) (top)
+* [22" Zildjian High Definition Ride](http://myBook.to/zildjianhighdefinition22)
+* [20" Zildjian K Ride](http://myBook.to/zildjiank20ride)
+* AUX High Hat: [Zildjian 16" Dark K Crash](http://myBook.to/zildjiank16crash) (bottom) [16" K EFX](http://myBook.to/zildjian16efx) (top) (Eric Harland Hi Hats)
+* STACK: [Zildjian 20" K Dry Light Ride](http://myBook.to/zildjian20drylightride) (bottom) [12" Spiral Stacker](http://myBook.to/zildjianspiralstacker) (top)
 
 ![Mapex and Zildjians]({{ site.baseurl }}/images/LindsayA2.jpg)
 
@@ -57,15 +57,15 @@ Mapex Drums:
 
 Evans Heads:
 
-* Kick: [20" EMAD Clear](http://www.evansdrumheads.com/EvProductDetail.Page?ActiveID=3567&productid=520&productname=EMAD_Clear) (Batter), [EMAD Reso](http://www.evansdrumheads.com/EvProductDetail.Page?ActiveID=3567&productid=494&productname=EMAD_Reso) (Resonant)
-* Snare: [14" Hydraulic](http://www.evansdrumheads.com/EvProductDetail.Page?ActiveID=3567&productid=434&productname=Hydraulic_Black_Coated)
-* Toms: 10", 12", 14" 16" [Black Chrome](http://www.evansdrumheads.com/EvProductDetail.Page?ActiveID=3567&productid=549&productname=Black_Chrome) (Batter) ([G1](http://www.evansdrumheads.com/EvProductDetail.Page?ActiveID=3567&productid=437&productname=G1_Coated) Resonant)
+* Kick: [20" EMAD Clear](http://myBook.to/evansemadclear20) (Batter), [EMAD Reso](http://myBook.to/emadreso20) (Resonant)
+* Snare: [14" Hydraulic](http://myBook.to/evans14hydraulic)
+* Toms: 10", 12", 14" 16" [Black Chrome](http://myBook.to/evansblackchrome) (Batter) ([G1](http://myBook.to/evansg1pack) Resonant)
 
 ![Mapex and Zildjians]({{ site.baseurl }}/images/LindsayA3.jpg)
 
 NFUZD Electronic Drums:
 
-* [NFUZD Audio NSPIRE Rock Pack](http://www.sweetwater.com/store/detail/RockPack)
+* [NFUZD Audio NSPIRE Rock Pack](http://myBook.to/nfuzdrockpack)
 
 Hardware:
 
@@ -73,11 +73,13 @@ Hardware:
 
 Vic Firth Sticks:
 
-* [X5A](http://vicfirth.com/?attachment_id=1155), [Steve Jordan Signature](http://vicfirth.com/products/drum-sticks/signature-sticks/steve-jordan/), [Questlove Signature](http://vicfirth.com/products/drum-sticks/signature-sticks/ahmir-questlove-thompson/)
+* [X5A](http://myBook.to/vicfirthx5a), 
+* [Steve Jordan Signature](http://myBook.to/vicfirthstevejordan)
+* [Questlove Signature](http://myBook.to/vicfirthquestlove)
 
 Mics:
 
-* [Audix DP4](http://www.audixusa.com/docs_12/latest_news/EukpkkyEypGnPJrzDc.shtml) 4‑Piece Complete Drum Microphone Package
+* [Audix DP4](http://myBook.to/audixdp4) 4‑Piece Complete Drum Microphone Package
 
 I'll focus on my drums for this, but when I was 13, I built my own electric guitar!
 
@@ -93,8 +95,8 @@ Cymbals:
 
 * Sound proof drum room (this seems to be a recurring theme here on the site!!!)
 * [L80 Series](http://zildjian.com/Products/Drumset-Cymbals/Low-Volume) - for quiet gigs/practice
-* [Zildjian 22" K Constantinople Medium Thin Low Ride](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/K-Constantinople-Series/Rides/22-K-Constantinople-Medium-Thin-Ride-Low) -- I just need this!! haha
-* [Zildjian 21" K Custom Organic Ride](http://zildjian.com/Products/Drumset-Cymbals/Cast-Bronze-Cymbals/K-Custom-Series/21-K-Custom-Organic-Ride) -- I met Pat at PASIC and now I want this cymbal even more!
+* [Zildjian 22" K Constantinople Medium Thin Low Ride](http://myBook.to/zildjianconstantinople22) -- I just need this!! haha
+* [Zildjian 21" K Custom Organic Ride](http://myBook.to/zildjian21organic) -- I met Pat at PASIC and now I want this cymbal even more!
 * Cympad [Optimizers](http://shop.cympad.com/p/cympad-optimizer-starter-pack), [Moderators](http://shop.cympad.com/c/moderator-series) and [Chromatics](http://shop.cympad.com/c/chromatics-series)
 
 Drums:
@@ -104,7 +106,7 @@ Drums:
 
 Electronic Drums:
 
-* [Roland TD-30K](http://www.roland.co.uk/products/td-30k/) :)
+* [Roland TD-30K](http://myBook.to/rolandtd-30k) :)
 
 Mics:
 

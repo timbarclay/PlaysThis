@@ -39,7 +39,7 @@ Our software includes:
 * [Steven Slate Drums](http://www.stevenslatedrums.com/) 
 * [FabFilter](http://www.fabfilter.com/) for EQ/Limiting/Compression/MultiBand Compression
 * [Waves Audio Platinum Pack](http://www.waves.com/bundles/platinum) - Different Reverbs/Harmonic Enhancers
-* [Corel Video Editor](http://www.videostudiopro.com/en/products/videostudio/pro/) 
+* [Corel Video Editor](http://mybook.to/corelvideo) 
 
 ![Audio setup]({{ site.baseurl }}/images/linzeyr3.jpg)
 
@@ -67,7 +67,7 @@ Our instruments and gear we use for recording/filming purposes:
 
 Oh man...If you gave me all the money in the world, there would be a problem. 
 
-I think the first thing I would want to buy is a [Shure SM58](http://www.shure.co.uk/producten/microphones/sm58). They are freakin indestructible and sound amazing.  
+I think the first thing I would want to buy is a [Shure SM58](http://mybook.to/shuresm58). They are freakin indestructible and sound amazing.  
 
 As far as recording equipment goes, you never really know what you want until you buy something and realize you need something else to go with it. But the list we have so far is:
 

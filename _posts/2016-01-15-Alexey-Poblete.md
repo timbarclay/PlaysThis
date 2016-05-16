@@ -18,23 +18,23 @@ My favorite drummers are - John Bonham, Eric Singer, Neil Peart, Tommy Lee, Tomm
 
 I love classic rock and metal! I have a [youtube channel](https://www.youtube.com/user/alexeydrummer) where I do drum covers and I am in a band called [Moxy and The Influence](http://www.moxyandtheinfluence.com/).
 
-My favorite bands are - KISS, Led Zeppelin, Rush, Motley Crue, Black Sabbath, Moxy ROXX, Five Finger Death Punch, Avenged Sevenfold, Obscura, Slayer, and more.
+My favorite bands are - [KISS](http://mybook.to/kiss-lovegun), [Led Zeppelin](http://mybook.to/ledzeppeliniv), [Rush](http://mybook.to/rush2112), [Motley Crue](http://amzn.to/1OuJV1w), [Black Sabbath](http://mybook.to/paranoid), [Moxy ROXX](http://mybook.to/moxyroxx), [Five Finger Death Punch](http://mybook.to/fivefingerdeathpunch), [Avenged Sevenfold](http://mybook.to/a7xnightmare), [Obscura](http://mybook.to/omnivium-obscura), [Slayer](http://mybook.to/reigninblood), and more.
 
 I started playing drums at the age of 6 years and 9 months. It all started when I was 5 years old and watched a kids tv show about music and once I saw the drummer, I absolutely fell in love with drums! I finally convinced my parents to get me drums after more than a year of persuasion. They got me a drum set and a drum teacher. I promised them to join a drum competition if I started playing drums. After 6 months of playing drums at age 7, I joined my first drum competition and won! I also played drums with Patti LaBelle at age 7 and I played with Stevie Wonder at the Nokia Theater also at the age of 7.
 
-I had my drum teacher for a year and a half. When I was 8 years old, I became friends with the drummer of KISS, Eric Singer who is now my mentor. I also received a [video message from Neil Peart](https://www.youtube.com/watch?v=h4IuyTANf4c) when I covered YYZ at age 8. I won the [Next Great Drummer](https://www.facebook.com/Next-Great-Drummer-Official-264894143540875/) competition in categories - Beginner, Intermediate, and Hard. 
+I had my drum teacher for a year and a half. When I was 8 years old, I became friends with the drummer of KISS, Eric Singer who is now my mentor. I also received a [video message from Neil Peart](https://www.youtube.com/watch?v=h4IuyTANf4c) when I covered [YYZ](http://mybook.to/yyz) at age 8. I won the [Next Great Drummer](https://www.facebook.com/Next-Great-Drummer-Official-264894143540875/) competition in categories - Beginner, Intermediate, and Hard. 
 
 ![Alexey Poblete]({{ site.baseurl }}/images/AlexeyP2.jpg)
 
 In 2012 I played on Tommy Lee’s Rollercoaster drum set during KISS and Motley Crue’s soundcheck in Vegas. I was also the 2013 Worldwide [Hit Like a Girl](http://www.hitlikeagirlcontest.com/) Drum Contest Under 18 Champion and was a judge for Hit Like a Girl 2014 and 2015. I was also the champion for the [KISS Drum Off](https://www.youtube.com/watch?v=5_rq47tbFiY) on KISS Kruise III, 2013. 
 
-I also played with Thomas Pridgen and his band The Memorial in 2014. In 2015 I was featured as a drummer in Ellen Degeneres’ and GAPKIDS’ girl power campaign and clothing line. I had an interview with Ellen Degeneres, played drums for her, and taught her a beat on drums. 
+I also played with Thomas Pridgen and his band [The Memorials](http://mybook.to/memorials-delirium) in 2014. In 2015 I was featured as a drummer in Ellen Degeneres’ and GAPKIDS’ girl power campaign and clothing line. I had an interview with Ellen Degeneres, played drums for her, and taught her a beat on drums. 
 
 <p><div class='embed-container'><iframe src="https://www.youtube.com/embed/wlEftYYvvZc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div></p>
 
-I also jammed with Nick Menza of Megadeth, Veronica Bellino of Jeff Beck, Meytal Cohen, Thomas Lang, Eric Singer, and Derek Roddy, etc. I also had appearances on Fox5TV Las Vegas and on the news in Philippines. I toured in Philippines in September - October 2015. Over there I played with Death By Stereo, Sandwich, Imago, Wolfgang, and Arnel Pineda of Journey. 
+I also jammed with Nick Menza of [Megadeth](http://mybook.to/rustinpeace), Veronica Bellino of [Jeff Beck](http://mybook.to/jeffbeckwired), Meytal Cohen, Thomas Lang, Eric Singer, and Derek Roddy, etc. I also had appearances on Fox5TV Las Vegas and on the news in Philippines. I toured in Philippines in September - October 2015. Over there I played with [Death By Stereo](http://mybook.to/deathbystereo), [Sandwich](https://www.discogs.com/artist/3148620-Sandwich-6), [Imago](http://www.last.fm/music/Imago), [Wolfgang](https://en.wikipedia.org/wiki/Wolfgang_(band)), and Arnel Pineda of [Journey](http://mybook.to/journey-greatesthits). 
 
-I have played with many KISS Tribute bands, and local bands in Vegas like Sin City Sinners and Antitrust. I played with the Next Great Drummer All Stars Band at the long beach Jazz festival. I’ve done many magazine interviews like Rock and Roll, Russian Magazines - Kids of Metal, and Legato Magazine from Philippines. I played at NASCAR in Vegas in 2012 and 2013. I also played at many charity events and at the Andre Agassi Benefit show. I also received a certificate from Senator Henry Reid in Vegas. Recently, I was in Walk The Moon’s music video, ‘Work this Body’. 
+I have played with many KISS Tribute bands, and local bands in Vegas like [Sin City Sinners](http://mybook.to/sincitysinners) and [Antitrust](https://www.facebook.com/antitrustlv/). I played with the Next Great Drummer All Stars Band at the long beach Jazz festival. I’ve done many magazine interviews like Rock and Roll, Russian Magazines - Kids of Metal, and Legato Magazine from Philippines. I played at NASCAR in Vegas in 2012 and 2013. I also played at many charity events and at the Andre Agassi Benefit show. I also received a certificate from Senator Henry Reid in Vegas. Recently, I was in Walk The Moon’s music video, ‘Work this Body’. 
 
 ### What do you use?
 
@@ -66,7 +66,7 @@ Bass Drums -
 * Kick #1 - 22 in.
 * Kick #2 - 22 in.
 
-Pedal - [Pearl Eliminator Demon Drive](http://demondrive.pearldrum.com/) Double Pedal. 
+Pedal - [Pearl Eliminator Demon Drive](http://mybook.to/demondrive) Double Pedal. 
 
 [Zildjian](http://zildjian.com/) Cymbals -
 

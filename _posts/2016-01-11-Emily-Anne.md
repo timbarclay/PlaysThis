@@ -22,7 +22,7 @@ I perform and record mainly metal music, though I will venture into other genres
 
 ### What do you use?
 
-Here comes the list! First and foremost, possibly the most important part of my set up are my sticks. I’ve been using [Los Cabos 5A Intense White hickory](http://loscabosdrumsticks.com/products/white-hickory/) sticks for a number of years and they just feel like an extension of my arm.
+Here comes the list! First and foremost, possibly the most important part of my set up are my sticks. I’ve been using [Los Cabos 5A Intense White hickory](http://mybook.to/loscabos) sticks for a number of years and they just feel like an extension of my arm.
 
 I use [Pearl Vision Birch](http://pearldrum.com/products/kits/drumsets/vision/vision-birch-vbl/) series drums:
 
@@ -31,27 +31,27 @@ I use [Pearl Vision Birch](http://pearldrum.com/products/kits/drumsets/vision/vi
 * 16" X 16" Floor Tom
 * 22" X 18" Bass Drum
 
-[Luwdig’s Black Beauty](http://www.ludwig-drums.com/usasnares_blackbeauty.php) snare, 6.5" X 14" Hand hammered Chrome.
+[Luwdig’s Black Beauty](http://mybook.to/blackbeauty) snare, 6.5" X 14" Hand hammered Chrome.
 
 My cymbals include:
 
 * [Sabian AAX 13" Fast Hats](http://www.musiciansfriend.com/drums-percussion/sabian-aax-fast-hats)
-* [Sabian AAX X-Plosion Crash 16"](http://www.sabian.com/en/cymbal/21687xb-16-inch-aax-x-plosion-crash)
-* [Sabian AAX X-Plosion Crash 18"](http://www.sabian.com/en/cymbal/21887xb-18-inch-aax-x-plosion-crash)
+* [Sabian AAX X-Plosion Crash 16"](http://mybook.to/sabianxplosion16)
+* [Sabian AAX X-Plosion Crash 18"](http://mybook.to/sabianxplosion18)
 * [Sabian Vault V-Crash 18"](http://www.sabian.com/en/cymbal/v1806b-18-inch-vault-v-crash)
-* [Sabian AA Medium Heavy Ride 20"](http://www.musiciansfriend.com/drums-percussion/sabian-20-aa-medium-heavy-ride-cymbal)
+* [Sabian AA Medium Heavy Ride 20"](http://mybook.to/sabianaamediumheavy)
 
-And I’ve recently just added a [Sabian AA Splash 10"](http://www.sabian.com/en/cymbal/21005-10-inch-aa-splash) to the kit.
+And I’ve recently just added a [Sabian AA Splash 10"](http://mybook.to/sabianaa10) to the kit.
 
 ![Pearl Vision Birch]({{ site.baseurl }}/images/EmilyA3.jpg)
 
 And all the cymbal hardware is Pearl as well.
 
-For the Youtube video recordings I film with a combination of a [GoPro Hero](https://gopro.com/), [iPhone](http://www.apple.com/uk/iphone/) and [Fujifilm](https://www.fujifilm.eu/uk) cameras for the multiple angles and record with a mic combination of [SM57](http://www.shure.co.uk/producten/microphones/sm58)’s, Ribbon mics, SDCs and a [D12](http://www.akg.com/pro/p/d12vr) on the kick.
+For the Youtube video recordings I film with a combination of a [GoPro Hero](http://mybook.to/goprohero), [iPhone](http://www.apple.com/uk/iphone/) and [Fujifilm](https://www.fujifilm.eu/uk) cameras for the multiple angles and record with a mic combination of [SM57](http://mybook.to/shuresm57)’s, Ribbon mics, SDCs and a [D12](http://mybook.to/akgd12) on the kick.
 
 When it comes to the actual recording of songs it’s 99% by memory. I’ve never used a notepad or drum demos to write out what I want to play; I think once I find the sweet spot and I’m happy with it, it sticks in my head. As far as the drum covers go, if it’s a really intense drumming song, I’ll listen to it over and over until I figure out the part(s) and again, once it’s in there, it’s not leaving!
 
-So most of the rest of the recording gear includes a computer and recording software (right now I’m using [Cubase](http://www.steinberg.net/en/products/cubase/start.html)), though I do keep a notepad of my future drumming plans, and lots of rudiment books or pieces I find interested that I’ve ripped out of drum magazines.
+So most of the rest of the recording gear includes a computer and recording software (right now I’m using [Cubase](http://mybook.to/cubase)), though I do keep a notepad of my future drumming plans, and lots of rudiment books or pieces I find interested that I’ve ripped out of drum magazines.
 
 ### What would be your dream set up?
 
