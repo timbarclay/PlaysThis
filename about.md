@@ -10,6 +10,8 @@ This site finds out what gear musicians use to get their work done and their mus
 
 This site is heavily influenced by [UsesThis.com](https://usesthis.com/).
 
+PlaysThis.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to the global Amazon Storefronts.
+
 Hosted on [Github Pages](https://github.com/timbarclay/PlaysThis) using [Jekyll](http://jekyllrb.com/).
 
 ### Contact
