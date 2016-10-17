@@ -114,4 +114,4 @@ Mics:
 
 Thank you for reading!! Please feel free to say hello via any of the links below :)
 
-[lindsayartkop.com](www.lindsayartkop.com), [Instagram](www.instagram.com/lindsayartkop), [Facebook](www.facebook.com/lindsayartkopdrums), [YouTube](www.youtube.com/lindsayannemusic)
+[lindsayartkop.com](http://www.lindsayartkop.com), [Instagram](http://www.instagram.com/lindsayartkop), [Facebook](http://www.facebook.com/lindsayartkopdrums), [YouTube](http://www.youtube.com/lindsayannemusic)

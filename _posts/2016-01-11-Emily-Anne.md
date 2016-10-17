@@ -12,9 +12,9 @@ redirect_from:
 
 ### Who are you and what do you do?
 
-Hey! I’m Emily Anne and I’m a Toronto- based drummer. I’ve been playing for just over 12 years. I joined my first band [Skull Fist](https://www.facebook.com/skullfisted) at 17, and am currently playing in Toronto metal band [Axxion](www.facebook.com/axxioncanada) and session member in Toronto metal band [Phantom](https://www.facebook.com/X6X.PHANT0M.X6X).
+Hey! I’m Emily Anne and I’m a Toronto- based drummer. I’ve been playing for just over 12 years. I joined my first band [Skull Fist](https://www.facebook.com/skullfisted) at 17, and am currently playing in Toronto metal band [Axxion](http://www.facebook.com/axxioncanada) and session member in Toronto metal band [Phantom](https://www.facebook.com/X6X.PHANT0M.X6X).
 
-I’ve also recently started my own [Youtube channel](https://www.youtube.com/channel/UCxMw4mWC_ujd9gDphTnxi2g) where I perform [drum covers, and instructionals](www.facebook.com/emilyannedrums).  
+I’ve also recently started my own [Youtube channel](https://www.youtube.com/channel/UCxMw4mWC_ujd9gDphTnxi2g) where I perform [drum covers, and instructionals](http://www.facebook.com/emilyannedrums).  
 
 I perform and record mainly metal music, though I will venture into other genres during my practice routine to keep things interesting and of course I can take those elements and put it into my recording and writing in and out of the bands.
 

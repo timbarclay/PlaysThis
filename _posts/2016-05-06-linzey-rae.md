@@ -12,7 +12,7 @@ redirect_from:
 
 ### Who are you and what do you do? 
 
-Hi! My name is Linzey Rae and I am the vocalist of [The Anchor](www.facebook.com/theanchorband), a metalcore band based out of Denver, CO. 
+Hi! My name is Linzey Rae and I am the vocalist of [The Anchor](http://www.facebook.com/theanchorband), a metalcore band based out of Denver, CO. 
 
 We have been around for about 3 years now and just released a [new single](https://www.youtube.com/watch?v=tpgolIYQHEA) called Greenbow County! You can buy it off [iTunes](http://apple.co/1pRw9KH) and [Amazon](http://amzn.to/1N9OUVe). It is also available on Google Play and Spotify! We are super excited to announce that we are in the studio currently recording a first full length, set to release in fall 2016.
 
@@ -20,7 +20,7 @@ I played guitar/bass for 8 years and have been self teaching myself vocals for 6
 
 ![Linzey Rae]({{ site.baseurl }}/images/linzeyr2.jpg)
 
-I have been performing in bands since I was 12 years-old and have been with [The Anchor](www.theanchor-band.com) for the full 3 years...
+I have been performing in bands since I was 12 years-old and have been with [The Anchor](http://www.theanchor-band.com) for the full 3 years...
 
 I recently started a [YouTube channel](http://www.youtube.com/c/LinzeyRae), which had [a video, called Metal Kitchen](https://www.youtube.com/watch?v=xwksxDHNoAE), go viral in January. You can find other videos on my channel including [more Metal Kitchen](https://www.youtube.com/watch?v=hNEcIWZpGeM), [original music](https://www.youtube.com/watch?v=fb3KUg68Ubg), [pop covers](https://www.youtube.com/watch?v=skwklrSkqBE), vocal covers, and other silly videos if you need a good laugh.
 
