@@ -1,6 +1,8 @@
 # Plays This
 
-Hosted at [playsthis.com](http://playsthis.com)
+Hosted at [playsthis.com](http://playsthis.com).
+
+I generate international Amazon links for products using a little Chrome Extension I wrote called [Amazing Linkalizer](http://amznlnk.com).
 
 ## Set-up related stuff
 
@@ -29,7 +31,9 @@ Hosted at [playsthis.com](http://playsthis.com)
 
 ### Tagging
 
-The tagging system is appreciatively stolen from [MindDust](http://www.minddust.com/post/tags-and-categories-on-github-pages/). When adding a new tag:
+The tagging system is appreciatively stolen from [MindDust](http://www.minddust.com/post/tags-and-categories-on-github-pages/). 
+
+When adding a new tag:
 
 * Add it to `_data/tags.yml`:
 

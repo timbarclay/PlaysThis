@@ -58,7 +58,7 @@ Now enough of the business talk, the most important thing in my life is my famil
 
 For those that don’t know me, I love collecting drums. I’ll start with listing the gear that I play regularly and then I can get into some of the more obscure pieces.
 
-The first kit is a [Yamaha Absolute Hybrid Maple](http://usa.yamaha.com/products/musical-instruments/drums/ac-drumsets/absolute_hm/). Tom sizes are 10”, 12”, 14”, and 16”. Snare is a 14”, and bass drum is a 22”. The colour is Classic Walnut and the kit is made with outer plies of maple and a centre ply of African Wenge. This helps the drums resonate beautifully and it one of my favourite new kits on the market today.
+The first kit is a [Yamaha Absolute Hybrid Maple](http://amznlnk.com/Qj). Tom sizes are 10”, 12”, 14”, and 16”. Snare is a 14”, and bass drum is a 22”. The colour is Classic Walnut and the kit is made with outer plies of maple and a centre ply of African Wenge. This helps the drums resonate beautifully and it one of my favourite new kits on the market today.
 
 ![Yamaha Absolute Hybrid Maple]({{ site.baseurl }}/images/JaredF6.jpg)
 
@@ -76,15 +76,15 @@ The last kit I will be sharing about from my collection is a 1964 [Camco Oakland
 
 Now onto something else that really helps me personalize my sound more - drumheads. I have been endorsed by [Evans Drumheads](http://evansdrumheads.com) for 8 years now. Not only do they make a great drumhead, but they are awesome people to work with (Thanks Jim & Larry).
 
-I generally stick to Evans [G1](http://www.evansdrumheads.com/EvProductDetail.Page?ActiveID=3567&productid=437&productname=G1_Coated&sid=f90651df-840e-4efe-a915-c464c412bf6b) or [G2](http://www.evansdrumheads.com/EvProductDetail.Page?ActiveID=3567&productid=541) coated on the tom batter side, [G1 clears](http://www.evansdrumheads.com/EvProductDetail.Page?ActiveID=3567&productid=436) on the resos, [Genera HD Dry](http://www.evansdrumheads.com/EvProductDetail.Page?ActiveID=3567&productid=431) on the snare, and an [Evans EQ3](http://www.evansdrumheads.com/EvProductDetail.Page?ActiveID=3567&productid=517&productname=EQ3_Clear) clear or coated on the bass drum (depending on the application).
+I generally stick to Evans [G1](http://amznlnk.com/W0) or [G2](http://amznlnk.com/Lq) coated on the tom batter side, [G1 clears](http://amznlnk.com/q1) on the resos, [Genera HD Dry](http://amznlnk.com/6V) on the snare, and an [Evans EQ3](http://amznlnk.com/Nk) clear or coated on the bass drum (depending on the application).
 
 ![Evans drum heads]({{ site.baseurl }}/images/JaredF10.jpg)
 
-Another product that I love to use is our custom Drumeo [Vic Firth](http://vicfirth.com/) drumsticks. These are modelled after the [55A](http://vicfirth.com/products/drum-sticks/american-classic/55a/) which falls right in between a 5A and 5B size-wise. It is an acorn tip and is the perfect weight for playing all style of music.
+Another product that I love to use is our custom Drumeo [Vic Firth](http://vicfirth.com/) drumsticks. These are modelled after the [55A](http://amznlnk.com/aKv) which falls right in between a 5A and 5B size-wise. It is an acorn tip and is the perfect weight for playing all style of music.
 
 ![Vic Firth sticks]({{ site.baseurl }}/images/JaredF11.jpg)
 
-In addition to having a large drum collection, I also love my [Paiste](http://paiste.com/) Cymbals. I always joke to people that I have more stock of Paiste Cymbals then any of the local music stores, which is probably the truth! It would take too long to list all the cymbals, but my favourite lines are the [Twenty Masters Custom](http://www.moderndrummer.com/site/2011/11/paiste-twenty-masters-collection/), [Signature Traditional](http://paiste.com/e/cymbalsoverv.php?family=1&action=family), [Formula 602 Modern Essentials](http://paiste.com/e/cymbalsoverv.php?family=56&action=family), and the [PST-X](http://www.paiste.com/e/cymbalsoverv.php?family=60&action=family).
+In addition to having a large drum collection, I also love my [Paiste](http://paiste.com/) Cymbals. I always joke to people that I have more stock of Paiste Cymbals then any of the local music stores, which is probably the truth! It would take too long to list all the cymbals, but my favourite lines are the [Twenty Masters Custom](http://amznlnk.com/9dd), [Signature Traditional](http://amznlnk.com/8M1), [Formula 602 Modern Essentials](http://amznlnk.com/oNy), and the [PST-X](http://amznlnk.com/7pQ).
 
 ![Paiste cymbals]({{ site.baseurl }}/images/JaredF12.jpg)
 
@@ -92,7 +92,7 @@ The final item that really allows me to play drums is my [Whisper Room](http://w
 
 ![Whisper room]({{ site.baseurl }}/images/JaredF13.jpg)
 
-That is some of the main gear I like to use. Some honourable mentions: 13” [Macbook Pro](http://www.apple.com/uk/macbook-pro/), [Keurig](http://www.keurig.com/) Coffee Machine, drum DVD collection, and my awesome snare drum collection!
+That is some of the main gear I like to use. Some honourable mentions: 13” [Macbook Pro](http://amznlnk.com/y2K), [Keurig](http://amznlnk.com/MYo) Coffee Machine, drum DVD collection, and my awesome snare drum collection!
 
 ### What would be your dream set up?
 
@@ -100,7 +100,7 @@ Listing anything here is going to make me feel like a whining baby after listing
 
 The first item I would love is a [Yamaha Phoenix](http://usa.yamaha.com/products/musical-instruments/drums/ac-drumsets/phx/) setup. I am not even picky on the colour, but I’d love a kit like this with a matching snare drum.
 
-I’d also love an original [Ludwig Black Beauty](http://www.ludwig-drums.com/usasnares_blackbeauty.php) snare drum. These are very hard to find and listed on eBay for upwards of $4000.
+I’d also love an original [Ludwig Black Beauty](http://amznlnk.com/RJ2) snare drum. These are very hard to find and listed on eBay for upwards of $4000.
 
 And finally, I’d love a [DW Timeless Timber](http://www.musiciansfriend.com/drums-percussion/dw-timeless-timber-romanian-river-oak-6-piece-shell-pack) drum-set. I know that all DW kits sound amazing, but the story behind these drums, and the thought and time it takes to make them is impressive.
 
