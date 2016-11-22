@@ -85,32 +85,32 @@ When recording more specific Sample Pack content and HipHop/BreakBeat stuff, I'v
 My Recording/Production gear
 
 * [Apple MacBook Pro 15"](http://amznlnk.com/4z7) 
-* [Ableton Live Suite 9.6](http://myBook.to/abletonlive9)
-* [RME Fireface 800](http://myBook.to/rme-fireface-800) and [MOTU](http://myBook.to/motu)
+* [Ableton Live Suite 9.6](http://amznlnk.com/L3q)
+* [RME Fireface 800](http://amznlnk.com/qX1) and [MOTU](http://amznlnk.com/PMN)
 * [Midas M-32R](http://www.music-group.com/Categories/Midas/Mixers/Digital-Mixers/M32R/p/P0BI9) Digital Mixing Console
-* Full set of [Audix drum microphones](http://myBook.to/audix-mic-pack) for close miking
-* [SE Electronics](http://myBook.to/seelectronics-overhead) set of Overhead microphones
+* Full set of [Audix drum microphones](http://amznlnk.com/6dV) for close miking
+* [SE Electronics](http://amznlnk.com/N0k) set of Overhead microphones
 * [AKG Solitube](https://www.soundonsound.com/sos/jan98/articles/akg.htm)
-* [Neumann](http://amzn.to/1PfbH2s) 
-* [Mojave MA-200](http://amzn.to/1PfbCfh)'s Tube Room Microphones
+* [Neumann](http://amznlnk.com/aAv) 
+* [Mojave MA-200](http://amznlnk.com/9Qd)'s Tube Room Microphones
 * [Manley SLAM](http://www.manley.com/products/view/slam!) 
 * [Quested F-11](http://www.soundonsound.com/sos/nov98/articles/questedf11.htm) monitors
 * [Adam S3-A](http://www.soundonsound.com/sos/mar04/articles/adams3a.htm) monitors
 * [Native Instruments Pro Control 49](http://www.akaipro.com/kb/article/1809) keyboard
-* [Native Instruments Komplete 10](http://myBook.to/native-instruments-komplete10)
+* [Native Instruments Komplete 10](http://amznlnk.com/811)
 * [Arturia Collection V](https://www.arturia.com/products/analog-classics/v-collection/overview)
-* [Novation Bass Station 2](http://myBook.to/novation-bass-station-2)
+* [Novation Bass Station 2](http://amznlnk.com/owy)
 * [Yamaha Reface DX](http://uk.yamaha.com/en/products/music-production/synthesizers/reface/reface_dx/)
-* [Roland TB-3](http://myBook.to/roland-aira-tb-3)
-* [Electro Harmonics Vocoder](http://myBook.to/electro-harmonix-vocoder)
+* [Roland TB-3](http://amznlnk.com/7vQ)
+* [Electro Harmonics Vocoder](http://amznlnk.com/yeK)
 
 ### What would be your dream set up?
 
 I'm already playing my dream drum set ups, so I would invest more in my studio setup:
 
 * Apple Mac Pro 32-core desktop running Ableton Live Suite as I'm currently using
-* full set of [Apogee](http://myBook.to/apogee-quartet) converters
-* a double set of [Universal Audio Apollo](http://myBook.to/universal-audio-apollo) interfaces
+* full set of [Apogee](http://amznlnk.com/MJo) converters
+* a double set of [Universal Audio Apollo](http://amznlnk.com/RZ2) interfaces
 * a full selection of [Manley](http://www.manley.com/) outboard gear
 * a full set of the latest [Moog](http://www.moogmusic.com/) synths
 * a full set of the latest [Waves](http://www.waves.com/plugins) plugins
