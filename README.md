@@ -44,6 +44,22 @@ When adding a new tag:
         permalink: /tag/drums/
         ---
 
+### Images
+
+The repo contains a little node script to generate different sized images to be used in different places and at different screen sizes. When adding new images, do this:
+
+* Add the original image to `images/` 
+  * Follow the naming convention `<firstname><surnameInital><number>`, e.g. `timb1`. Where 1 is used as the lead image for thumbnails etc and other numbers are used throughout the post
+* Make sure you've installed the node dependencies by running `npm install`
+* Run `npm run resize`
+
+In the post, add the name of the lead image (without extension) to the front matter, e.g. `image: timb1`.
+There's an html partial for showing images that sorts out the sizing etc. To insert an image use:
+
+    {% include articleImage.html image="timb1" alt="Tim Barclay" %}
+
+In a few cases, for example if the original image is very small or very tall and thin, it's better to just use the original, in which case just use standard markdown image syntax.
+
 ### Case sensitive paths
 
 Paths in Github pages are case sensitive and I, slightly short-sightedly, started off using title case for the paths of posts. This is bad as [any](http://wiredimpact.com/blog/never-use-capital-letters-urls/) [number](http://www.goinflow.com/redirect-uppercase-urls-to-lowercase/) [of](http://brianflove.com/2014/08/11/lowercase-your-uris/) [blogs](http://www.chrisabernethy.com/force-lower-case-urls-with-mod_rewrite/) are more than willing to shout about, so I decided to switch to using all lower case from mid January 2016 onwards.
