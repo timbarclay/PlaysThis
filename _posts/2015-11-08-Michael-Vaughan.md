@@ -3,12 +3,12 @@ layout: post
 title: Michael Vaughan
 description: Drums - Neverworld
 tags: [drums, pearl, paiste, remo, promark, metal]
-image: /images/MikeV1.jpg
+image: mikev1
 redirect_from:
  - /michael-vaughan/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="mikev1" alt="Mike Vaughan" %}
 
 ### Who are you and what do you do?
 
@@ -28,7 +28,7 @@ The rest of my cymbals consist of 2 sets of 14 inch Hi hats, 1 set for the Hi ha
 
 I like using [Promark 5B](http://www.promark.com/pmProductDetail.Page?ActiveID=3917&ProductId=19) sticks and don't really like any sticks with nylon tips and I also wear [Ahead drum gloves](http://www.aheaddrumsticks.com/ahead-accessories-gloves-gls.html#.Vj9JL67hC-w) when playing. I have a set of cheap [JVC sports head phones](http://www.jvc.co.uk/product-list.php?id=100154) which I use as in ear monitors, they are good as they wrap round your ear and don't fall out.
 
-![Michael Vaughan]({{ site.baseurl }}/images/MikeV2.jpg)
+{% include articleImage.html image="mikev2" alt="Mike Vaughan" %}
 
 I also use an [Alesis DM5](http://www.alesis.com/dm5) drum brain for triggering with the kick drums. Even if this system isn't used through the PA I would still have it rigged up to my head phones as I find it helps me tremendously when I can hear the clear hit of the kick drum when I'm playing live.
 

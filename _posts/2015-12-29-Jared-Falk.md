@@ -3,12 +3,12 @@ layout: post
 title: Jared Falk
 description: Drums - Drumeo, teaching
 tags: [drums, yamaha, paiste, evans]
-image: /images/JaredF1.jpg
+image: jaredf1
 redirect_from:
  - /jared-falk/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="jaredf1" alt="Jared Falk" %}
 
 ### Who are you and what do you do?
 
@@ -16,7 +16,7 @@ Hi, my name is Jared Falk and I am a Father, husband, drummer, and businessman (
 
 I started playing drums when I was 15 years old after watching a kid in my class air drum with pencils. It just looked like so much fun. So I went home and asked my parents a question that many dread hearing, “Can I get a drum-set and play drums?” Good thing for me, my parents were ultra supportive, and not only got me a drum-set, but provided an entire separate room for me to practice on as much as I wanted to.
 
-![First drum kit]({{ site.baseurl }}/images/JaredF2.jpg)
+{% include articleImage.html image="jaredf2" alt="First drum kit" %}
 
 After playing for just over a year, I started to play in my local church, as well as playing in a few different original bands. I took lessons with a few different instructors throughout the first few years, all shared very unique perspectives and I tried to soak up as much as I could.
 
@@ -28,7 +28,7 @@ Between the ages of 16 - 19 I was lucking enough to play in so many different mu
 
 After touring and playing in bands until the age of 21, I came home and decided to get a “real job”. So I started to work at my family farm travelling into Vancouver’s Chinatown every day to wheel and deal duck at the market. This helped me develop my in-person sales experience and I actually really enjoyed it. But drumming was still my passion and in addition to my sales job I still taught up to 40 students every week, as well as played gigs around town with different bands.
 
-![Sales]({{ site.baseurl }}/images/JaredF3.jpg)
+{% include articleImage.html image="jaredf3" alt="Sales" %}
 
 In 2002, I was teaching a student named Rick Kettner. Rick was a good student and a savvy internet marketer and developer. He had been participating in the Pearl Drummers Forums and uploading videos of himself teaching the heel-toe bass drum technique. Back in the day, there was no YouTube, Facebook, Twitter, and Instagram. Online video was a rarity and students were going crazy over his videos which had been downloaded more than 12,000 times in a very short while.
 
@@ -44,7 +44,7 @@ In 2012, we decided to re-focus our brand and that’s when we started [Drumeo.c
 
 We now have more than 120,000 drummers using the Drumeo website. Many of those have purchased our online packages and many are signed up to the daily live lesson service called Drumeo Edge. There are over 60 instructors who teach on Drumeo, and I have an in-house team of 17 people that manage the customer support, video editing, web development, marketing, product design, programming, etc.
 
-![The Drumeo team]({{ site.baseurl }}/images/JaredF4.jpg)
+{% include articleImage.html image="jaredf4" alt="The Drumeo team" %}
 
 So I have really gone from being just a drummer to having to tackle more and more business related things lately. I love the business side of what I do, and it’s even sweeter that it’s all revolving around playing and teaching drums.
 
@@ -52,7 +52,7 @@ My day-to-day changes a lot, but lately I’ve been busy hosting so many amazing
 
 Now enough of the business talk, the most important thing in my life is my family. I’ve been extremely blessed to have a happy and healthy family, and get to live in a country where we are free to say and do what we want. Too many times we take these simple things for granted, but I am very grateful for each family member and friend that I have in my life.
 
-![Family]({{ site.baseurl }}/images/JaredF5.jpg)
+{% include articleImage.html image="jaredf5" alt="Family" %}
 
 ### What do you use?
 
@@ -60,37 +60,37 @@ For those that don’t know me, I love collecting drums. I’ll start with listi
 
 The first kit is a [Yamaha Absolute Hybrid Maple](http://amznlnk.com/Qj). Tom sizes are 10”, 12”, 14”, and 16”. Snare is a 14”, and bass drum is a 22”. The colour is Classic Walnut and the kit is made with outer plies of maple and a centre ply of African Wenge. This helps the drums resonate beautifully and it one of my favourite new kits on the market today.
 
-![Yamaha Absolute Hybrid Maple]({{ site.baseurl }}/images/JaredF6.jpg)
+{% include articleImage.html image="jaredf6" alt="Yamaha Absolute Hybrid Maple" %}
 
 Another kit that I love to play is my [Yamaha 20th Anniversary Recording Custom](http://usa.yamaha.com/products/musical-instruments/drums/ac-drumsets/recording_custom/). These drums have been on multiple albums throughout the years and are the industry standard for studio drummers. They sound extremely warm and very controlled, I’ve never had any issues tuning or keeping them in tune.
 
-![Yamaha 20th Century Anniversary Recording Custom]({{ site.baseurl }}/images/JaredF7.jpg)
+{% include articleImage.html image="jaredf7" alt="Yamaha 20th Century Anniversary Recording Custom" %}
 
 I mentioned earlier about a [Casey Drums](http://caseydrums.com/) setup. The tom sizes are 12” and 14”, the snare is a 14”, and the bass drum is a 20”. This is another one of my favourites and fully built by my first drum student Jason Kliewer. Each shell is steam bent and only a single ply. The wood is Ash and harvested around 45 minutes from where I live. This set can be tuned low and has an incredible punch, or you can tune it up and use it to play jazz.
 
-![Casey Drums]({{ site.baseurl }}/images/JaredF8.jpg)
+{% include articleImage.html image="jaredf8" alt="Casey Drums" %}
 
 The last kit I will be sharing about from my collection is a 1964 [Camco Oakland Lawn](http://www.mikedolbear.com/story.asp?StoryID=2380) setup. The tom sizes are 12” and 14”, and the bass drum is a 20”. I normally only purchase kits that come with a matching snare, but I couldn’t pass up on this at the time (thanks Sean Lang!). The colour is blue sparkle and it sounds like nothing else you’ve heard before. The drums are maple shell with reinforcement rings on each one.
 
-![Camco]({{ site.baseurl }}/images/JaredF9.jpg)
+{% include articleImage.html image="jaredf9" alt="Camco" %}
 
 Now onto something else that really helps me personalize my sound more - drumheads. I have been endorsed by [Evans Drumheads](http://evansdrumheads.com) for 8 years now. Not only do they make a great drumhead, but they are awesome people to work with (Thanks Jim & Larry).
 
 I generally stick to Evans [G1](http://amznlnk.com/W0) or [G2](http://amznlnk.com/Lq) coated on the tom batter side, [G1 clears](http://amznlnk.com/q1) on the resos, [Genera HD Dry](http://amznlnk.com/6V) on the snare, and an [Evans EQ3](http://amznlnk.com/Nk) clear or coated on the bass drum (depending on the application).
 
-![Evans drum heads]({{ site.baseurl }}/images/JaredF10.jpg)
+{% include articleImage.html image="jaredf10" alt="Evans drum heads" %}
 
 Another product that I love to use is our custom Drumeo [Vic Firth](http://vicfirth.com/) drumsticks. These are modelled after the [55A](http://amznlnk.com/aKv) which falls right in between a 5A and 5B size-wise. It is an acorn tip and is the perfect weight for playing all style of music.
 
-![Vic Firth sticks]({{ site.baseurl }}/images/JaredF11.jpg)
+{% include articleImage.html image="jaredf11" alt="Vic Firth sticks" %}
 
 In addition to having a large drum collection, I also love my [Paiste](http://paiste.com/) Cymbals. I always joke to people that I have more stock of Paiste Cymbals then any of the local music stores, which is probably the truth! It would take too long to list all the cymbals, but my favourite lines are the [Twenty Masters Custom](http://amznlnk.com/9dd), [Signature Traditional](http://amznlnk.com/8M1), [Formula 602 Modern Essentials](http://amznlnk.com/oNy), and the [PST-X](http://amznlnk.com/7pQ).
 
-![Paiste cymbals]({{ site.baseurl }}/images/JaredF12.jpg)
+{% include articleImage.html image="jaredf12" alt="Paiste cymbals" %}
 
 The final item that really allows me to play drums is my [Whisper Room](http://www.whisperroom.com/). I got this around one year back after being frustrated about only being able to practice on an electric kit at home due to noise constraints. I have two young boys and when they’re sleeping I don’t want to do anything to wake them up. This is a 6x6 room that is not 100% soundproof, but deadens the sound enough so I can play at any time of day and not bother anyone in the house.
 
-![Whisper room]({{ site.baseurl }}/images/JaredF13.jpg)
+{% include articleImage.html image="jaredf13" alt="Whisper room" %}
 
 That is some of the main gear I like to use. Some honourable mentions: 13” [Macbook Pro](http://amznlnk.com/y2K), [Keurig](http://amznlnk.com/MYo) Coffee Machine, drum DVD collection, and my awesome snare drum collection!
 

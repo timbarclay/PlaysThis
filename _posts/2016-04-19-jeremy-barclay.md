@@ -3,18 +3,18 @@ layout: post
 title: Jeremy Barclay
 description: Guitars - Little Grim
 tags: [guitar, fender, vox, alternative]
-image: /images/jeremyb1.jpg
+image: jeremyb1
 redirect_from:
  - /Jeremy-Barclay/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="jeremyb1" alt="Jeremy Barclay" %}
 
 ### Who are you and what do you do? 
 
 My name is Jeremy and I’m the guitarist for [Little Grim](https://www.facebook.com/littlegrimuk/), a South London alt/indie group. Think Stone Roses meets the Strokes meets 1970s funk and you’ll get a general idea of what we do – or check out our recently released single, [Sparks](http://amusicblogyea.com/2016/04/18/exclusive-video-premiere-little-grim-sparks/).
 
-<p><div class='embed-container'><iframe src="https://www.youtube.com/embed/n25trQDSUrk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div></p>
+{% include youtube.html id="n25trQDSUrk" %}
 
 ### What do you use?
 
@@ -22,7 +22,7 @@ My set-up is simple, partly because I’m a purist, and partly because I’m bro
  
 My Strat is a complete workhorse, and I treat it as such. I’m not too precious over it, and think any knocks and dinks that it’s earned on the road only make it look better. Sound-wise, it’s unmistakably a Strat. Being a slightly older model, its pick-ups aren’t so hot and I think it has quite a vintage sound which works for me.
 
-![Jeremy Barclay]({{ site.baseurl }}/images/jeremyb2.jpg)
+{% include articleImage.html image="jeremyb2" alt="Jeremy Barclay" %}
  
 In the studio I’ve used other guitars. Our first single, Vice, was recorded on an old [Ibanez](http://www.ibanez.com/) semi-hollow, as well as a gorgeous [Fender Deluxe Telecaster](http://intl.fender.com/en-GB/?cgid=fender-products-electric-model-platform-telecaster-deluxe) which was very hard to leave behind.
  

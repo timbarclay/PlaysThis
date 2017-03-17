@@ -3,12 +3,12 @@ layout: post
 title: Tom Humphrey
 description: Guitars - Milk White Throat
 tags: [guitar, prs, orange, boss, metal]
-image: /images/TomH1.jpg
+image: tomh1
 redirect_from:
  - /tom-humphrey/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="tomh1" alt="Tom Humphrey" %}
 
 ### Who are you and what do you do?
 
@@ -24,7 +24,7 @@ We have been gigging regularly around the South of England and in 2016 we aim to
 
 My live set up consists of my [PRS Custom 24](http://www.prsguitars.com/custom24/) in Whale Blue, an [Orange Rockerverb](https://orangeamps.com/products/guitar-amp-heads/) mk I with 2x12 [Orange CB Cabinet](https://orangeamps.com/products/guitar-speaker-enclosures/), a [Pedal Train](http://www.pedaltrain.com/) pedalboard with [Carl Martin](https://carlmartin.com/) power supply, one [Fulltone OCD](http://www.fulltone.com/products/ocd), one [Boss Blues Driver](http://www.bossus.com/products/bd-2/), a [Boss Flanger](http://www.bossus.com/products/bf-3/), a [Boss Giga Delay](http://www.bossus.com/products/dd-20/), a [Boss Compressor](http://www.bossus.com/products/cs-3/), a [Boss Tremolo](http://www.bossus.com/products/tr-2/), a [Boss Chromatic Tuner](http://www.boss.info/products/tu-3/), one [Electro Harmonix Small Stone phaser](http://www.ehx.com/products/small-stone), a [Snarling Dogs Whine-O-Wah](http://www.musiciansfriend.com/amplifiers-effects/snarling-dogs-super-bawl-whine-o-wah-pedal) and occasionally an [Electro Harmonix Germanium Big Muff](http://www.ehx.com/products/germanium-4-big-muff).
 
-![Pedals]({{ site.baseurl }}/images/TomH2.jpg)
+{% include articleImage.html image="tomh2" alt="Pedals" %}
 
 I also own a [Spalted Maple Fender Telecaster Custom HH](http://www.musiciansfriend.com/guitars/fender-special-edition-custom-telecaster-spalted-maple-hh-electric-guitar) which is mainly used as a backup guitar these days and an [Ibanez Artwood 250ECE](http://www.gear4music.com/Guitar-and-Bass/Ibanez-AW250ECE-Artwood-Series-Electro-Acoustic-Guitar-Low-Gloss/QO2) acoustic.
 
@@ -41,6 +41,6 @@ I also spend an obsessive amount of time listening to my own ideas. I’m not su
 
 I think if I had the money I would buy a house and build a recording/rehearsal studio in it, that’s the dream! Mainly I just want more guitars. I don’t have one particular model that I’m lusting after, as the PRS is great already and suits a lot of my needs. I would however love to have a collection of great guitars as there is always a time for a [Strat](http://intl.fender.com/en-GB/guitars/stratocaster/), a [Les Paul](http://www.gibson.com/Products/Electric-Guitars/Les-Paul.aspx), and [SG](http://www.gibson.com/Products/Electric-Guitars/SG.aspx), a [Tele](http://intl.fender.com/en-GB/guitars/telecaster/), a hollow body etc. I would love to have a high quality version of each to use for recording, with the PRS being my main gigging guitar. I’d also love to add to my pedal collection but that list could go on a while. My next purchase will be a [Tubescreamer](http://www.analogman.com/tshist.htm) of some sort as I’ve never owned one but they are great. I also want a better unit for modulation effects and have had my eye on the [Eventide Mod Factor](https://www.eventideaudio.com/products/stompboxes/chorus-flanger/modfactor).
 
-![Tom Humphrey]({{ site.baseurl }}/images/TomH3.jpg)
+{% include articleImage.html image="tomh3" alt="Tom Humphrey" %}
 
 I’m considering replacing my Rockerverb amp with the [Engl Powerball](http://www.englamps.de/index.php?id=36&tx_ddfproducts_pi1%5Buid%5D=21) as I’ve really enjoyed recording with the emulation of it on Amplitube. If I had the money I would possibly go for something like a [Hughes & Kettner Triamp](http://hughes-and-kettner.com/products/triamp/triamp-mark-3/), but these days that’s just a bit out of my price range at £2500…

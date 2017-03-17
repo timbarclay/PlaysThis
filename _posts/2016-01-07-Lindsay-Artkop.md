@@ -3,12 +3,12 @@ layout: post
 title: Lindsay Artkop
 description: Drums - Independent
 tags: [drums, mapex, zildjian, evans, vicfirth]
-image: /images/LindsayA1.jpg
+image: lindsaya1
 redirect_from:
  - /lindsay-artkop/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="lindsaya1" alt="Lindsay Artkop" %}
 
 ### Who are you and what do you do?
 
@@ -20,7 +20,7 @@ Now a Scholarship Student at Berklee College of Music, I major in Professional M
 
 On May 7th, 2015, I won [“Hit Like a Girl"](http://www.hitlikeagirlcontest.com/), an international video competition for female drummers. This is my video:
 
-<p><div class='embed-container'><iframe src="https://www.youtube.com/embed/TKKO3mdyIus?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div></p>
+{% include youtube.html id="TKKO3mdyIus" %}
 
 Earning 1st place has already brought countless exciting drumming opportunities. Some of these include signing endorsements with [Zildjian](http://zildjian.com/), [Evans](http://www.evansdrumheads.com/), [Mapex](http://mapexdrums.com/), [Vic Firth](http://vicfirth.com/) and [Cympad](http://www.cympad.com/), being scheduled for performances, interviews, lesson teaching and drum collaborations on [DrumChannel](http://www.drumchannel.com/), being featured in magazines like [DRUM!](http://www.drummagazine.com/) and [TomTom](http://tomtommag.com/), working with famous drummers such as Kiran Gandhi and Shariq Tucker on video collaborations, performing a solo clinic at [PASIC 2015](http://www.pas.org/pasic/about-pasic/general-information), being included in the new Hit Like a Girl Contest mini-documentary, being invited to advocate and judge the final round of HLAG 2016, and much more. I also work with many bands/artists live and in the studio, and travel performing drumset clinics.
 
@@ -30,7 +30,7 @@ I'm now pursuing a career as a touring drummer for established Pop Artists/Bands
 
 I also compose and produce my own original music videos. Below is the very first release, "Red Vibes" (Lots of drum gear to check out in this one!)
 
-<p><div class='embed-container'><iframe src="https://www.youtube.com/embed/yUQGL6zAuwM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div></p>
+{% include youtube.html id="yUQGL6zAuwM" %}
 
 ### What do you use?
 
@@ -45,7 +45,7 @@ Zildjian Cymbals:
 * AUX High Hat: [Zildjian 16" Dark K Crash](http://myBook.to/zildjiank16crash) (bottom) [16" K EFX](http://myBook.to/zildjian16efx) (top) (Eric Harland Hi Hats)
 * STACK: [Zildjian 20" K Dry Light Ride](http://myBook.to/zildjian20drylightride) (bottom) [12" Spiral Stacker](http://myBook.to/zildjianspiralstacker) (top)
 
-![Mapex and Zildjians]({{ site.baseurl }}/images/LindsayA2.jpg)
+{% include articleImage.html image="lindsaya2" alt="Mapex and Zildjians" %}
 
 Mapex Drums:
 
@@ -61,7 +61,7 @@ Evans Heads:
 * Snare: [14" Hydraulic](http://myBook.to/evans14hydraulic)
 * Toms: 10", 12", 14" 16" [Black Chrome](http://myBook.to/evansblackchrome) (Batter) ([G1](http://myBook.to/evansg1pack) Resonant)
 
-![Mapex and Zildjians]({{ site.baseurl }}/images/LindsayA3.jpg)
+{% include articleImage.html image="lindsaya3" alt="Mapex and Zildjians" %}
 
 NFUZD Electronic Drums:
 

@@ -3,12 +3,12 @@ layout: post
 title: Michael Schack
 description: Drums - SquarElectric, Netsky, sMashUp
 tags: [drums, roland, tama, meinl]
-image: /images/michaels1.jpg
+image: michaels1
 redirect_from:
  - /Michael-Schack/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="michaels1" alt="Michael Schack" %}
 
 ### Who are you and what do you do? 
 
@@ -23,7 +23,7 @@ Current musical adventures:
 * [SquarElectric](http://www.squarelectric.com), a duo project with a V-Jay/DJ friend of mine, which resulted in a live duo MashUp concept where I trigger all sounds and mixes and him putting moving images and sound FX on top. I've been combining and integrating the SquarElectric adventures in my international solo performances at drum festivals, Roland drumming events and music fairs, apart from playing live with some of Belgium's most famous live playing artists like [Milk Inc](http://amznlnk.com/KX0), [Kate Ryan](http://amznlnk.com/ZJl), [Ozark Henry](http://amznlnk.com/pNK) and [Soulsister](http://amznlnk.com/Gl0).
 * [Netsky](http://amznlnk.com/zDp), which went "Live" in 2012. Since then we played numerous venues and festivals all over Europe, Australia, New Zealand, Canada, the UK, Korea and the US, including the Coachella festival etc. Netsky is now releasing a third album, and we'll be playing some big festivals in Europe and the US during the summer.
 
-![Michael Schack]({{ site.baseurl }}/images/michaels2.jpg)
+{% include articleImage.html image="michaels2" alt="Michael Schack" %}
 
 * [#PushYourDrumming](https://twitter.com/hashtag/pushyourdrumming) clinic concept, which I conceptualised together with Roland Benelux drum product manager Christophe Cools and after starting out of Benelux in fall 2014, since then brought me all over Europe, Malaysia and recently also Canada. With #PushYourDrumming, I want to show and inspire any drummer how to think out of the box, take advantage of all drumming things online and start playing beats and fills that matter instead of studying drumming mathematics which usually keep yourself inside your own practice room. It's been a ball seeing all those drummers showing up to the clinics and doing things with all tips and exercises which they take home after the clinic on a USB stick or download with a special #PYD code after attending the clinics.  
 * [Michael Schack "sMashUp"](http://www.facebook.com/drummermichaelschack), not only in Benelux but also in Colombia and Mexico for the very first time this summer.
@@ -41,7 +41,7 @@ For the [SquarElectric](http://www.squarelectric.com) and my solo [SmashUp](http
 
 When playing with Netsky or doing a demonstration concert for schools or at smaller drumming events, I'm using that same [TD-30KV](http://myBook.to/rolandtd-30kv), including [Tama Road Pro](http://amznlnk.com/dPv) hardware, but then combined with a Roland [SPD-SX](http://amznlnk.com/Bea) Sample Pad.
 
-![Michael Schack's Tama Starclassic Bubinga]({{ site.baseurl }}/images/michaels3.jpg)
+{% include articleImage.html image="michaels3" alt="Michael Schack's Tama Starclassic Bubinga" %}
 
 #### 3/ The PushYourDrumming set
 
@@ -55,7 +55,7 @@ I usually also use this set for recording sessions in my studio. It cracks into 
 
 For cymbals, I'm a total addict of the [Meinl Byzance](http://amznlnk.com/n78) Series. Since 2008, I'm even combining two of their [16" crashes](http://amznlnk.com/eXp) as HiHats and almost never went back to regular 14" setups. They really blend well with any male or female vocal performance, both live and in the studio, and they keep my HiHat muscles in good shape :) 
 
-![Michael Schack]({{ site.baseurl }}/images/michaels4.jpg)
+{% include articleImage.html image="michaels4" alt="Michael Schack" %}
 
 The full set listing : 
 Tama Starclassic Bubinga, consisting of
@@ -80,7 +80,7 @@ Meinl Byzance symbal setup
 
 When recording more specific Sample Pack content and HipHop/BreakBeat stuff, I've also been using the [Tama Cocktail Jam](http://amznlnk.com/EZP), always combined with a Roland multi-dual trigger setup combined with a couple of [Roland TM-2](http://amznlnk.com/AwR) Trigger Modules.
 
-![Michael Schack]({{ site.baseurl }}/images/michaels5.jpg) 
+{% include articleImage.html image="michaels5" alt="Michael Schack" %}
 
 My Recording/Production gear
 

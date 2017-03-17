@@ -16,13 +16,9 @@ I generate international Amazon links for products using a little Chrome Extensi
   * http://jekyll-windows.juthilo.com/
 * On Mac/Linux:
   * http://jekyllrb.com/docs/installation/
-* Add a file in the root dir called `Gemfile` containing:
-
-        source 'https://rubygems.org'
-        gem 'github-pages'
-        gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 * Install Bundler (http://bundler.io/) - `gem install bundler`
+* Install dependencies - `bundle install`
 * Serve with `bundle exec jekyll serve`
 
 ### Extra helpful setup stuff

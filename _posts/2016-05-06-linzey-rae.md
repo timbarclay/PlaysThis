@@ -3,12 +3,13 @@ layout: post
 title: Linzey Rae
 description: Vocals - The Anchor, YouTube
 tags: [vocals, electrovoice, shure, metal]
-image: /images/linzeyr1.jpg
+image: linzeyr1
 redirect_from:
  - /Linzey-Rae/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="linzeyr1" alt="Linzey Rae" %}
+
 
 ### Who are you and what do you do? 
 
@@ -18,13 +19,13 @@ We have been around for about 3 years now and just released a [new single](https
 
 I played guitar/bass for 8 years and have been self teaching myself vocals for 6.
 
-![Linzey Rae]({{ site.baseurl }}/images/linzeyr2.jpg)
+{% include articleImage.html image="linzeyr2" alt="Linzey Rae" %}
 
 I have been performing in bands since I was 12 years-old and have been with [The Anchor](http://www.theanchor-band.com) for the full 3 years...
 
 I recently started a [YouTube channel](http://www.youtube.com/c/LinzeyRae), which had [a video, called Metal Kitchen](https://www.youtube.com/watch?v=xwksxDHNoAE), go viral in January. You can find other videos on my channel including [more Metal Kitchen](https://www.youtube.com/watch?v=hNEcIWZpGeM), [original music](https://www.youtube.com/watch?v=fb3KUg68Ubg), [pop covers](https://www.youtube.com/watch?v=skwklrSkqBE), vocal covers, and other silly videos if you need a good laugh.
 
-<p><div class='embed-container'><iframe src="https://www.youtube.com/embed/xwksxDHNoAE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div></p>
+{% include youtube.html id="xwksxDHNoAE" %}
 
 ### What do you use?
 
@@ -61,7 +62,7 @@ Our instruments and gear we use for recording/filming purposes:
 * [Peavey Valve King 1 and 2](https://peavey.com/products/valveking/)
 * [GoPro Hero + LCD](http://goo.gl/SLKlum) 
 
-![Linzey Rae]({{ site.baseurl }}/images/linzeyr4.png)
+{% include articleImage.html image="linzeyr4" alt="Linzey Rae" %}
 
 ### What would be your dream set up?
 

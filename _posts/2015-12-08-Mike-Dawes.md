@@ -3,12 +3,12 @@ layout: post
 title: Mike Dawes
 description: Guitars - Solo, Justin Hayward
 tags: [guitar, cuntz, anderson, fender, benjamin, dimarzio, ernieball, g7th, zvex, intune, acoustic]
-image: /images/MikeD1.jpg
+image: miked1
 redirect_from:
  - /mike-dawes/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="miked1" alt="Mike Dawes" %}
 
 ### Who are you and what do you do?
 
@@ -22,7 +22,7 @@ I also dabble in other sessions and TV work. I make apps, write for guitar magaz
 
 Man, big question. Ok I guess first and foremost I use the acoustic guitar, like, really abuse it. I try an coax as many sounds out of it as possible, lots of drum effects and sparkly harmonics. I really try and push it, but always keep the music at the heart of anything I'm working on. There's no point doing silly things if you're going to sound silly as well. Do check out the videos on [YouTube](https://www.youtube.com/user/mikedawesofficial) for a more musical and eloquent explanation of what I mean. You can just search 'Mike Dawes' or visit [mikedawes.com](http://mikedawes.com).
 
-![Andreas Cuntz Indian Rose]({{ site.baseurl }}/images/MikeD2.jpg)
+{% include articleImage.html image="miked2" alt="Andreas Cuntz Indian Rose" %}
 
 So the guitar setup is pretty complex. I have 4 pickups in my acoustic guitars (Mike Dawes model [Andreas Cuntz Indian Rose](http://www.ac-guitars.com/en/instruments/cwg-23-series/cwg-23s-indian-rose-custom) and various [Nick Benjamin](http://www.benjaminguitars.co.uk/) custom builds) a bridge plate pickup, a mic, a [Dimarzio Black Angel](http://www.dimarzio.com/pickups/acoustic/black-angel) magnetic pickup and a [Dimarzio transducer](http://www.dimarzio.com/pickups/acoustic/acoustic-model) just above the soundhole.
 
@@ -40,7 +40,7 @@ I use [Ernie Ball](http://www.ernieball.co.uk/) strings (Nickel, Aluminium Bronz
 
 On the rare occasions where a pick is necessary, mostly at the Justin Hayward concerts, I use picks from a cool company called ['In Tune'](http://intunegp.com/). They can pretty much make any pick you want and they are very reasonably priced.
 
-![Mike Dawes]({{ site.baseurl }}/images/MikeD3.jpg)
+{% include articleImage.html image="miked3" alt="Mike Dawes" %}
 
 For the Justin Hayward shows I also have an electric rig. This consists of a [Tom Anderson Custom Telecaster](http://www.andersonguitars.com/product_information/models/t_family/tfam.cfm) through 2 [Fender](http://intl.fender.com/en-GB/amps/) combos. Pedals in this chain include: Compressor, Overdrive, Chorus, Delay, Reverb. I use the reverb as a boost for solos. The chorus is always on (it makes our little band sound a little bigger).
 

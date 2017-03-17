@@ -3,12 +3,12 @@ layout: post
 title: Emily Anne
 description: Drums - Axxion, Phantom, ex-Skull Fist
 tags: [drums, pearl, sabian, ludwig, los-cabos, metal]
-image: /images/EmilyA1.jpg
+image: emilya1
 redirect_from:
  - /emily-anne/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="emilya1" alt="Emily Anne" %}
 
 ### Who are you and what do you do?
 
@@ -18,7 +18,7 @@ I’ve also recently started my own [Youtube channel](https://www.youtube.com/ch
 
 I perform and record mainly metal music, though I will venture into other genres during my practice routine to keep things interesting and of course I can take those elements and put it into my recording and writing in and out of the bands.
 
-![Emily Anne]({{ site.baseurl }}/images/EmilyA2.jpg)
+{% include articleImage.html image="emilya2" alt="Emily Anne" %}
 
 ### What do you use?
 
@@ -43,7 +43,7 @@ My cymbals include:
 
 And I’ve recently just added a [Sabian AA Splash 10"](http://mybook.to/sabianaa10) to the kit.
 
-![Pearl Vision Birch]({{ site.baseurl }}/images/EmilyA3.jpg)
+{% include articleImage.html image="emilya3" alt="Pearl Vision Birch" %}
 
 And all the cymbal hardware is Pearl as well.
 

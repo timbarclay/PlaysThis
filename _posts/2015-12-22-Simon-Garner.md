@@ -3,12 +3,12 @@ layout: post
 title: Simon Garner
 description: Guitars - Tangled Limbs, Bob Constant & The Goodbye Horses
 tags: [guitar, gretsch, boss, fender, alternative]
-image: /images/SimonG1.jpg
+image: simong1
 redirect_from:
  - /simon-garner/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="simong1" alt="Simon Garner" %}
 
 ### Who are you and what do you do?
 
@@ -20,7 +20,7 @@ Both projects are fairly odd but (I think) with at least some underlying pop sen
 
 I play a [Gretsch Electromatic](http://www.gretschguitars.com/products/guitars/) guitar which I frickin' love. I used to play an [Epiphone SG](http://www.epiphone.com/Products/Electrics/SG.aspx) and I really liked it so was looking to upgrade to something similar but better quality when a friend of mine, who knows his stuff way better than me, recommended a selection of guitars and threw in the curve ball of the Gretsch, which is nothing like an SG. I tried it out and knew very quickly that it was the one for me.
 
-![Gretsch Electromatic]({{ site.baseurl }}/images/SimonG2.jpg)
+{% include articleImage.html image="simong2" alt="Gretsch Electromatic" %}
 
 I use a lot of effects pedals. My current set up, which I've had for a little while now, is:
 
@@ -38,7 +38,7 @@ I also use two [Dunlop DC Bricks](http://www.jimdunlop.com/product/mxr-dc-brick)
 
 It may not sound like it given the list of pedals above, but I believe in not letting effects get in the way of playing or using them just for the sake of it. I love hearing new sounds on records, but only when they're in good songs. My most extravagant purchase in terms of pedals is probably the Strymon Bluesky (approx £250), which is absolutely gorgeous and I highly recommend it. But also sitting quite happily on my board is the Behringer Vibrato which costs me about £15 and also does exactly what I need it to do. Both these pedals were great purchases. Pretty much the first thing I do when I get a pedal is turn all the knobs to the extremes (minumum and maximum) and then I'll gradually find a couple of settings that I really like and, most commonly, I'll stick with those for a good long while without messing with them too much. I suppose I'm limiting the amount of sounds I use by doing this but I definitely think there's such a thing as too many options and if I'm constantly changing the settings on my pedals I feel like I'm not actually spending time creating music, which is obviously the whole point of all this gear.
 
-![Pedal board]({{ site.baseurl }}/images/SimonG3.jpg)
+{% include articleImage.html image="simong3" alt="Pedal board" %}
 
 I also use my phone a lot for recording ideas and this has become really essential for me, especially with Tangled Limbs as I have to remember how to play every single part of each song in quick succession so it can all loop together as seamlessly as possible. Being able to listen back easily to ideas when writing and rehearsing is a big part of my creative process.
 

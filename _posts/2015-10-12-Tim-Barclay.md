@@ -3,12 +3,12 @@ layout: post
 title: Tim Barclay
 description: Drums - Heaven or Hell, ex-Neuronspoiler
 tags: [drums, mapex, zildjian, evans, vicfirth, metal]
-image: /images/TimB1.jpg
+image: timb1
 redirect_from:
  - /tim-barclay/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="timb1" alt="Tim Barclay" %}
 
 ### Who are you and what do you do?
 
@@ -35,13 +35,13 @@ I use (mostly) [Zildjian](http://zildjian.com/) cymbals:
 * 21" Z-custom MegaBell ride
 * 18" [Stagg](http://www.staggmusic.com/en/products/drums_percussion/cymbals_gongs.html) Furia crash with O-zone holes done by Ben Camp at [Cymbal Magic](http://cymbalmagic.com/)
 
-![Mapex and Zildjians]({{ site.baseurl }}/images/TimB2.jpg)
+{% include articleImage.html image="timb2" alt="Mapex and Zildjians" %}
 
 I use [Tama Speed Cobra](http://amzn.to/24FwSlj) bass drum pedals and then the rest of my hardware is a mishmash of stuff I've picked up on eBay and from different Facebook selling forums.
 
 For practicing at home, I use [Roland](http://www.roland.co.uk/categories/v-drums/) TD-9 V-Drums. I wear [Audio-Technica ATH-M50X headphones](http://amzn.to/24FwYJW) rather than using an amp or speakers or anything because I hate hearing the actual sound of hitting the mesh pads along with the sample.
 
-![Roland TD-9]({{ site.baseurl }}/images/TimB3.jpg)
+{% include articleImage.html image="timb3" alt="Roland TD-9" %}
 
 I mostly use [Vic Firth](http://www.vicfirth.com/) [5A sticks](http://amzn.to/1QW9Bi7) but I also occasionally use [Pro-Mark Rock Knockers](http://amzn.to/24FxiIA) so I can get that massive Vinny Appice washy ride sound without having to hold on to the tapered end of a normal stick.
 
@@ -51,7 +51,7 @@ I have a cheapy set of drum mics from eBay, only about half of which work, but t
 
 Although my kit is pretty mid-range, I really love the look and sound of it and don't have any real desire to change it. My cymbals are all lovely too, although they were all second hand so it would be nice to upgrade to all new ones that have endured a bit less of a kicking.
 
-![Tim Barclay]({{ site.baseurl }}/images/TimB4.jpg)
+{% include articleImage.html image="timb4" alt="Tim Barclay" %}
 
 The main change to my setup that I'd like, and which I'm currently working on doing, would be to get my practice space properly sound proofed so I can practice on an acoustic kit at home without getting myself evicted. I'd love to have a gigging kit, all packed up and ready to go, and a second kit permanently miced up at home in my soundproofed heavy metal cave.
 

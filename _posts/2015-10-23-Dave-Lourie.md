@@ -3,12 +3,12 @@ layout: post
 title: Dave Lourie
 description: Drums - Independent, sessions, teaching
 tags: [drums, yamaha, promark, evans, meinl]
-image: /images/DaveL1.jpg
+image: davel1
 redirect_from:
  - /dave-lourie/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="davel1" alt="Dave Lourie" %}
 
 ### Who are you and what do you do?
 
@@ -23,14 +23,14 @@ I also [teach](http://newcastledrumtuition.co.uk/) extensively in schools and co
 
 Endorsed by [Yamaha drums](http://amzn.to/1Wkjij0). I have a [Maple Custom Absolute](http://usa.yamaha.com/product_archive/drums/maple_custom_absolute/?mode=model) and a [Beech Custom Absolute](http://usa.yamaha.com/product_archive/drums/beech_custom_absolute/?mode=model).
 
-![{{ Yamaha drums Meinl cymbals }}]({{ site.baseurl }}/images/DaveL2.jpg)
+{% include articleImage.html image="davel2" alt="Yamaha drums Meinl cymbals" %}
 
 Sticks, brushes and beaters by [Promark](http://www.promark.com/) (endorsee) - not model specific but I prefer the RB series.
 Heads by [Evans](http://www.evansdrumheads.com/) (endorsee). Could be any combo but mostly single ply [G1s](http://amzn.to/1WkjvCF). Also have a variety of vintage [Ludwig](http://www.ludwig-drums.com/) snares. [400s, 402s and Acrolites](http://www.mikedolbear.com/story.asp?StoryID=547&Source=Archive&txtSearch).
 
 Cymbals - tons of them. Old [Zildjians](http://zildjian.com/), some [Sabians](http://www.sabian.com/en/home), [Dreams](http://www.dreamcymbals.com/) but  my favourites are my growing collection of [Meinl Byzance](http://meinlcymbals.com/cymbal-series/byzance-brilliant) cymbals. They are beautiful.
 
-![{{ Yamaha drums }}]({{ site.baseurl }}/images/DaveL4.jpg)
+{% include articleImage.html image="davel4" alt="Yamaha drums" %}
 
 At my studio I record with [Cubase](http://amzn.to/1WkjyhV) on Windows 7 with a bank of [MOTU 8pre DACs](http://amzn.to/1WkjDlG) linked optically. I'm only concerned with input quality. I usually send stems off to the client and they'll do all the editing/mixing. I use a wide selection of mics - [AKG](http://uk.akg.com/akg-homepage-uk.html), [Shure](http://www.shure.co.uk/), [Sennheiser](http://en-uk.sennheiser.com/), [Se](http://www.seelectronics.com/se-microphones/). I'm currently loving the [Avantone Mondo](http://amzn.to/1VQlhe9) bass drum mic - heavy! Monitoring on [M Audio](http://www.m-audio.com/) and using the [VF drummers headphones](http://amzn.to/1WkjK0E) and trusty [Beyer DT 150s](http://amzn.to/1WkjM8T).
 
@@ -40,4 +40,4 @@ I wouldn't spend any more on gear. I'd hire the best players possible on the pro
 
 The gear helps up to a point, but if it's not in your hands you won't find it in the equipment.
 
-![{{ Dave Lourie }}]({{ site.baseurl }}/images/DaveL3.jpg)
+{% include articleImage.html image="davel3" alt="Dave Lourie" %}

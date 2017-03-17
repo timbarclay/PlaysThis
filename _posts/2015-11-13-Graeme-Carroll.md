@@ -3,12 +3,12 @@ layout: post
 title: Graeme Carroll
 description: Keyboards, mandolin - Deep Purple In Rock, Heaven or Hell, Brother Crow
 tags: [keyboards, mandolin, korg, capek, rock]
-image: /images/GraemeC1.jpg
+image: graemec1
 redirect_from:
  - /graeme-carroll/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="graemec1" alt="Graeme Carroll" %}
 
 ### Who are you and what do you do?
 
@@ -47,7 +47,7 @@ Acoustic Gear for Brother Crow
 * Fitted with a [Mcintyre MF-200](http://www.acousticon.com/mcintyre.htm) Acoustic Feather
 * Using [Baggs Para-Acoustic](http://www.lrbaggs.com/preamps/para-di-acoustic-preamp) DI with [Zoom A2](http://www.musiciansfriend.com/amplifiers-effects/zoom-a2-acoustic-guitar-multi-effects-pedal) Effects
 
-![Capek Mandolin]({{ site.baseurl }}/images/GraemeC2.jpg)
+{% include articleImage.html image="graemec2" alt="Capek Mandolin" %}
 
 ### What would be your dream set up?
 

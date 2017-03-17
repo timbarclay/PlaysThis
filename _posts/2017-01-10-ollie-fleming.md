@@ -3,12 +3,12 @@ layout: post
 title: Ollie Fleming
 description: Guitars - Kintillo, Your Guitar Academy, teaching
 tags: [guitar, musicman, engl, ibanez]
-image: /images/ollief1.jpg
+image: ollief1
 redirect_from:
  - /Ollie-Fleming/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="ollief1" alt="Ollie Fleming" %}
 
 ### Who are you and what do you do? 
 
@@ -18,7 +18,7 @@ I'm [Ollie](http://www.olliefleming.com/) and I run guitar tuition company [Your
 
 I try to use the same set up for all gigs now, starting with my [Music Man JP6](https://www.music-man.com/instruments/guitars/john-petrucci) guitar with [Elixir](http://amznlnk.com/JdE) 10 - 46 strings. It's an incredibly versatile guitar especially with the coil tap and piezo. I feel like I can get a good approximation of most tones without having to switch guitars - something you just can't do on gigs where you need to keep the music going! I like the Elixir strings as they keep the feel of new strings for much longer, so I can do 2 or 3 gigs in a weekend and still have them feel nice at the end!
 
-![Gig setup]({{ site.baseurl }}/images/ollief2.jpg)
+{% include articleImage.html image="ollief2" alt="Gig setup" %}
 
 I never really got into using stomp boxes, as I prefer the sound of the guitar straight into the amp, but I do have a [Korg tuner](http://amznlnk.com/w2v), and [Ernie Ball volume pedal](http://amznlnk.com/jA6) and wah.
 
@@ -28,7 +28,7 @@ On the few occasions where I need some effects I have a [Fractal Axe Fx Ultra](h
 
 Everything is controlled with a [Rocktron Midi Mate](http://amznlnk.com/BWK) control pedal, and the sound comes from a [Matrix Neolight](https://www.andertons.co.uk/p/NL12/speaker-cabinets/matrix-amplification-neolight-nl12-compact-1x12-guitar-cab) 1x12 speaker. I can't recommend these speakers enough - they're so light!
 
-![Gig setup]({{ site.baseurl }}/images/ollief3.jpg)
+{% include articleImage.html image="ollief3" alt="Gig setup" %}
 
 When I'm teaching I use an [Ibanez AEW](http://www.ibanez.com/products/u_ag_detail.php?year=2016&cat_id=3&series_id=86&data_id=68&color=CL01) acoustic, or a [Parker Fly](http://amznlnk.com/VKO) plugged into a [Mooer Little Monster BM](http://amznlnk.com/3Ov). It's a tiny little amp but has a great tone to it. The Parker is great for teaching as it's so light and comfortable to play, I would use it live but the Music Man sounds so much better! I use [Logic Pro X](http://www.apple.com/uk/logic-pro/) to record backing tracks for students and an iOS app called [AudioStretch](https://itunes.apple.com/gb/app/audiostretch/id571863178?mt=8) to slow down music so they're able to play along.
 

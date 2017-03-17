@@ -3,12 +3,12 @@ layout: post
 title: Caroline Dearnley
 description: Cello - Britten Sinfonia, Britten Oboe Quartet, Sessions
 tags: [cello, milanese, ipad, classical]
-image: /images/CarolineD1.jpg
+image: carolined1
 redirect_from:
  - /caroline-dearnley/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="carolined1" alt="Caroline Dearnley" %}
 
 ### Who are you and what do you do?
 
@@ -22,7 +22,7 @@ In the early 1990s I was asked to join the [Britten Sinfonia](http://www.britten
 
 Three other principals from Britten Sinfonia make up my other regular chamber group. Nick Daniel (oboe), Jackie Shave (violin), Clare Finnimore (viola) and myself on cello make up the [Britten Oboe Quartet](http://nicholasdaniel.co.uk/britten-oboe-quartet/). We have been giving concerts together for the last ten years and are recording our first disc together this January to be released by [Harmonia Mundi USA](http://store.harmoniamundi.com/).
 
-![Britten Oboe Quartet]({{ site.baseurl }}/images/CarolineD2.jpg)
+{% include articleImage.html image="carolined2" alt="Britten Oboe Quartete" %}
 
 Wearing a different hat, I am a London session musician recording for TV & film soundtracks (4 [James Bond](http://www.007.com/) films, [Lord of The Rings](http://www.amazon.co.uk/Lord-Rings-Complete-Howard-Shore/dp/B0000TAZBK), [Gladiator](http://www.amazon.co.uk/Gladiator-Hans-Zimmer/dp/B00004STPT), [Harry Potter](http://www.amazon.co.uk/Complete-Harry-Potter-Music-Collection/dp/B00701QW1S) and... [Sponge-Bob Square Pants](https://en.wikipedia.org/wiki/The_SpongeBob_Movie:_Sponge_Out_of_Water) movie to name a few!).
 
@@ -30,7 +30,7 @@ Wearing a different hat, I am a London session musician recording for TV & film 
 
 My instrument is a beautiful old Milanese cello made in 1740. You have to love your instrument... it is after all your musical 'voice' and it becomes your precious life-long companion. I managed to buy it 30 years ago before having a mortgage or a family! 
 
-![Caroline Dearnley]({{ site.baseurl }}/images/CarolineD3.jpg)
+{% include articleImage.html image="carolined3" alt="Caroline Dearnley" %}
 
 When I have new pieces to learn I take myself, my cello, music and scores, a couple of 4B pencils (with rubbers!), my [iPad](http://www.apple.com/uk/ipad/) and headphones and a cup of tea down the garden to our music studio and settle in for, ideally a few days. If I'm busy working I have to fit the practice time in whenever/wherever possible... snatching an hour here and there between gigs.
 

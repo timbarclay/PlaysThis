@@ -1,9 +1,7 @@
 <article class="post">
   <a href="{{ site.baseurl }}{{ post.url }}">
     <div class="image-container">
-      <div class="dummy-image"></div>
-      <div class="article-image"
-        style="background-image:url({{ site.baseurl }}{{ post.image }})"></div>
+      {% include thumbnailImage.html %}
     </div>
   </a>
 

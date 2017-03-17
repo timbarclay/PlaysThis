@@ -1,0 +1,24 @@
+{
+  "name": "PlaysThis",
+  "version": "1.0.0",
+  "description": "Hosted at [playsthis.com](http://playsthis.com).",
+  "main": "index.js",
+  "scripts": {
+    "resize": "node ./image-resize.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timbarclay/PlaysThis.git"
+  },
+  "keywords": [],
+  "author": "Tim Barclay <timrbarclay@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timbarclay/PlaysThis/issues"
+  },
+  "homepage": "https://github.com/timbarclay/PlaysThis#readme",
+  "devDependencies": {
+    "@types/jimp": "^0.2.0",
+    "jimp": "^0.2.27"
+  }
+}

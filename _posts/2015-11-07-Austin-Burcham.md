@@ -3,12 +3,12 @@ layout: post
 title: Austin Burcham
 description: Drums - Independent, YouTube
 tags: [drums, pearl, sabian, remo, rock]
-image: /images/AustinB1.jpg
+image: austinb1
 redirect_from:
  - /austin-burcham/
 ---
 
-![{{ page.title }}]({{ site.baseurl }}{{ page.image }})
+{% include articleImage.html image="austinb1" alt="Austin Burcham" %}
 
 ### Who are you and what do you do?
 
@@ -44,7 +44,7 @@ Cymbals:
 * [Wuhan 16” Medium Thin Crash](http://www.amazon.com/WUHAN-WUCR16MT-Crash-16-Inch-Medium/dp/B000A1HU1G)
 * [Wuhan 18” Medium Thin Crash](http://www.drumfactorydirect.com/index.php?main_page=index&cPath=13_39_680)
 
-![Pearl and Sabians]({{ site.baseurl }}/images/AustinB2.jpg)
+{% include articleImage.html image="austinb2" alt="Pearl and Sabians" %}
 
 Pedals:
 
@@ -134,4 +134,4 @@ That’s a tough one... I am always just thinking about my next upgrade that’s
 * Any [Meinl](http://meinlcymbals.com/) cymbals I want
 * Solar powered home studio... with a [Tesla P90D](http://www.carmagazine.co.uk/car-reviews/tesla/tesla-model-s-p90d-2015-review/) sitting in the garage haha
 
-![Austin Burcham]({{ site.baseurl }}/images/AustinB4.jpg)
+{% include articleImage.html image="austinb4" alt="Austin Burcham" %}
