@@ -54,6 +54,7 @@ files.forEach(f => {
       .then(image => image.resize(width, jimp.AUTO))
       // If it's the lead image, we'll also cut it to the right shape
       .then(image => isLead ? image.cover(width, width * thumbnailHeightFactor, jimp.HORIZONTAL_ALIGN_CENTER | jimp.VERTICAL_ALIGN_TOP) : image)
+      .then(image => image.quality(80))
       .then(image => image.write(makeFileName(imageDir, filename.toLowerCase(), width, "jpg")))
       .catch(err => console.error(err))
   });
