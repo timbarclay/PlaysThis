@@ -10,7 +10,7 @@ I generate international Amazon links for products using a little Chrome Extensi
 * http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 * https://github.com/barryclark/jekyll-now
 
-## Set up for local development (God help you)
+## Set up for local development (God help you)!
 
 * On Windows:
   * http://jekyll-windows.juthilo.com/
