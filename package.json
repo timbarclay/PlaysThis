@@ -19,6 +19,6 @@
   "homepage": "https://github.com/timbarclay/PlaysThis#readme",
   "devDependencies": {
     "@types/jimp": "^0.2.0",
-    "jimp": "^0.2.27"
+    "jimp": "^0.22.8"
   }
 }
